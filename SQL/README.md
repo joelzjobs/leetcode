@@ -24,7 +24,7 @@ Leetcode SQL solutions.
 | 597 | [Friend Request 1: Overall Acceptance Rate](https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate/description/) | [#597 Solution](597/) |
 | 603 | [Consecutive Available Seats](https://leetcode.com/problems/consecutive-available-seats/description/) | [#603 Solution](603/) |
 | 607 | [Sales Person](https://leetcode.com/problems/sales-person/description/) | [#607 Solution](607/) |
-| 608 | [Tree Node](https://leetcode.com/problems/tree-node/description/) | [608 Solution](608/) |
+| 608 | [Tree Node](https://leetcode.com/problems/tree-node/description/) | [#608 Solution](608/) |
 | 610 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/description/) | [#610 Solution](610/) |
 | 612 | [Shortest Distance in a Plane](https://leetcode.com/problems/shortest-distance-in-a-plane/description/) | [#612 Solution](612/) |
 | 613 | [Shortest Distance in a Line](https://leetcode.com/problems/shortest-distance-in-a-line/description/) | [#613 Solution](613/) |
