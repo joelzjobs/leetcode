@@ -17,11 +17,14 @@ Leetcode SQL solutions.
 | 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/description/) | [#197 Solution](197/) |
 | 570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/description/) | [#570 Solution](570/) |
 | 577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/description/) | [#577 Solution](577/) |
+| 580 | [Count Number in Departments](https://leetcode.com/problems/count-student-number-in-departments/description/) | [#580 Solution](580/) |
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/) | [#584 Solution](584/) |
+| 585 | [Investments in 2016](https://leetcode.com/problems/investments-in-2016/description/) | [#585 Solution](585/) |
 | 586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/description/) | [#586 Solution](586/) |
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/description/) | [#595 Solution](595/) |
 | 596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/description/) | [#596 Solution](596/) |
 | 597 | [Friend Request 1: Overall Acceptance Rate](https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate/description/) | [#597 Solution](597/) |
+| 602 | [Friend Requests 2: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/description/) | [#602 Solution](602/) |
 | 603 | [Consecutive Available Seats](https://leetcode.com/problems/consecutive-available-seats/description/) | [#603 Solution](603/) |
 | 607 | [Sales Person](https://leetcode.com/problems/sales-person/description/) | [#607 Solution](607/) |
 | 608 | [Tree Node](https://leetcode.com/problems/tree-node/description/) | [#608 Solution](608/) |
