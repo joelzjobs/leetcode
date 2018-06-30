@@ -9,6 +9,8 @@ Leetcode Algorithm Solutions in Python.
 |  #  | Problems | Solutions |
 |:---:|:--------:|:---------:|
 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) | [#461 Solution](461/) |
+| 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/) | [#617 Solution](617/) |
+| 657 | [Judge Route Circle](https://leetcode.com/problems/judge-route-circle/description/) | [#657 Solution](657/) |
 | 760 | [Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/description/) | [#760 Solution](760/) |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [#771 Solution](771/) |
 | 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | [#804 Solution](804/) |
