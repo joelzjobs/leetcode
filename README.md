@@ -12,7 +12,7 @@ LeetCode Solutions.
 
 ### References
 
-[Leetcode](https://leetcode.com/problemset/all/)
+* [Leetcode](https://leetcode.com/problemset/all/)
 
 ### 简介
 
@@ -26,5 +26,5 @@ Leetcode 题解。
 
 ### 参考
 
-[Leetcode](https://leetcode.com/problemset/all/)
-[领扣(Leetcode中国)](https://leetcode-cn.com/problemset/all/)
+* [Leetcode](https://leetcode.com/problemset/all/)
+* [领扣(Leetcode中国)](https://leetcode-cn.com/problemset/all/)
