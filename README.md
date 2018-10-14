@@ -1,19 +1,30 @@
 # leetcode
-LeetCode Solutions
 
 ### Introduction
 
+LeetCode Solutions.
+
 ### Contents
 
-#### SQL
+* [SQL](SQL/)
+* [Shell](Shell/)
+* [Algorithm](Algorithms/)
 
-#### Algorithm
+### References
 
+[Leetcode](https://leetcode.com/problemset/all/)
 
 ### 简介
 
+Leetcode 题解。
+
 ### 内容
 
-#### SQL
+* [SQL](SQL/)
+* [Shell](Shell/)
+* [算法](Algorithms/)
 
-#### 算法
+### 参考
+
+[Leetcode](https://leetcode.com/problemset/all/)
+[领扣(Leetcode中国)](https://leetcode-cn.com/problemset/all/)
