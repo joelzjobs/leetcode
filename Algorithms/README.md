@@ -16,6 +16,7 @@ Leetcode Algorithm Solutions.
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/) | [#669 Python](leetcode_py/problem669/) | [#669 Java](leetcode_java/problem669/) |
 | 682 | [Baseball Game](https://leetcode.com/problems/baseball-game/description/) | [#682 Python](leetcode_py/problem682/) | [#682 Java](leetcode_java/problem682/) |
 | 760 | [Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/description/) | [#760 Python](leetcode_py/problem760/) |  [#760 Java](leetcode_java/problem760/) |
+| 766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/) | [#766 Python](leetcode_py/problem766/) | [#766 Java](leetcode_java/problem766/) |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [#771 Python](leetcode_py/problem771/) | [#771 Java](leetcode_java/problem771/) |
 | 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | [#804 Python](leetcode_py/problem804/) | [#804 java](leetcode_java/problem804/) |
 | 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/solution/) | [#832 Python](leetcode_py/problem832/) | [#832 Java](leetcode_java/problem832/) |
@@ -41,6 +42,7 @@ Leetcode 算法题解。
 | 575 | [分糖果](https://leetcode-cn.com/problems/distribute-candies/description/) | [#575 Python](leetcode_py/problem575/) | [#575 Java](leetcode_java/problem575/) |
 | 669 | [修剪二叉搜索树](https://leetcode-cn.com/problems/trim-a-binary-search-tree/) | [#669 Python](leetcode_py/problem669/) | [#669 Java](leetcode_java/problem669/) |
 | 682 | [棒球比赛](https://leetcode-cn.com/problems/baseball-game/description/) | [#682 Python](leetcode_py/problem682/) | [#682 Java](leetcode_java/problem682/) |
+| 766 | [托普利茨矩阵](https://leetcode-cn.com/problems/toeplitz-matrix/description/) | [#766 Python](leetcode_py/problem766/) | [#766 Java](leetcode_java/problem766/) |
 | 771 | [宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/description/) | [#771 Python](leetcode_py/problem771/) | [#771 Java](leetcode_java/problem771/) |
 | 804 | [唯一摩尔斯密码词](https://leetcode-cn.com/problems/unique-morse-code-words/description/) | [#804 Python](leetcode_py/problem804/) | [#804 java](leetcode_java/problem804/) |
 | 832 | [翻转图像](https://leetcode-cn.com/problems/flipping-an-image/description/) | [#832 Python](leetcode_py/problem832/) | [#832 Java](leetcode_java/problem832/) |
