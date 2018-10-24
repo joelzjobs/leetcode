@@ -9,25 +9,25 @@ Leetcode Algorithm Solutions.
 |  #  | Problems | Python Solutions | Java Solutions |
 |:---:|:--------:|:----------------:|:--------------:|
 | 266 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/description/) | [#266 Python](leetcode_py/problem266/) | [#266 Java](leetcode_java/problem266/) |
+| 293 | [Flip Game](https://leetcode.com/problems/flip-game/description/) | [#293 Python](leetcode_py/problem293/) | [#293 Java](leetcode_java/problem293/) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) | [#412 Python](leetcode_py/problem412/) | [#412 Java](leetcode_java/problem412/) |
 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) | [#461 Python](leetcode_py/problem461/) | [#461 Java](leetcode_java/problem461/) |
 | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/description/) | [#463 Python](leetcode_py/problem463/) | [#463 Java](leectode_java/problem463/) |
+| 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/) | [#496 Python](leetcode_py/problem496/) | [#496 java](leetcode_java/problem496/) |
+| 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/description/) | [#561 Python](leetcode_py/problem561/) | [#561 Java](leetcode_java/problem561/) |
 | 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/) | [#566 Python](leetcode_py/problem566/) | [#566 Java](leetcode_java/problem566/) |
 | 575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/description/) | [#575 Python](leetcode_py/problem575/) | [#575 Java](leetcode_java/problem575/) |
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/) | [#617 Python](leetcode_py/problem617/) | [#617 Java](leetcode_java/problem617/) |
 | 657 | [Judge Route Circle](https://leetcode.com/problems/judge-route-circle/description/) | [#657 Python](leetcode_py/problem657/) | [#657 Java](leetcode_java/problem657/) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/) | [#669 Python](leetcode_py/problem669/) | [#669 Java](leetcode_java/problem669/) |
 | 682 | [Baseball Game](https://leetcode.com/problems/baseball-game/description/) | [#682 Python](leetcode_py/problem682/) | [#682 Java](leetcode_java/problem682/) |
+| 728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/) | [#728 Python](leetcode_py/problem728/) | [#728 Java](leetcode_java/) |
 | 760 | [Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/description/) | [#760 Python](leetcode_py/problem760/) |  [#760 Java](leetcode_java/problem760/) |
 | 766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/) | [#766 Python](leetcode_py/problem766/) | [#766 Java](leetcode_java/problem766/) |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [#771 Python](leetcode_py/problem771/) | [#771 Java](leetcode_java/problem771/) |
 | 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | [#804 Python](leetcode_py/problem804/) | [#804 java](leetcode_java/problem804/) |
 | 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/solution/) | [#832 Python](leetcode_py/problem832/) | [#832 Java](leetcode_java/problem832/) |
 | 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | [#852 Python](leetcode_py/problem852/) | [#852 Java](leetcode_java/problem852/) |
-|     |                  |          |                |
-| 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/description/) | [#561 Python](leetcode_py/problem561/) |   |
-| 728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/) | [#728 Python](leetcode_py/problem728/) |   |
-
 
 ### 简介
 
@@ -40,12 +40,15 @@ Leetcode 算法题解。
 | 412 | [Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/description/) | [#412 Python](leetcode_py/problem412/) | [#412 Java](leetcode_java/problem412/) |
 | 461 | [汉明距离](https://leetcode-cn.com/problems/hamming-distance/description/) | [#461 Python](leetcode_py/problem461/) | [#461 Java](leetcode_java/problem461/) |
 | 463 | [岛屿的周长](https://leetcode-cn.com/problems/island-perimeter/description/) | [#463 Python](leetcode_py/problem463/) | [#463 Java](leectode_java/problem463/) |
+| 496 | [下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/description/) | [#496 Python](leetcode_py/problem496/) | [#496 java](leetcode_java/problem496/) |
+| 561 | [数组拆分 I](https://leetcode-cn.com/problems/array-partition-i/description/) | [#561 Python](leetcode_py/problem561/) | [#561 Java](leetcode_java/problem561/) |
 | 566 | [重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix/description/) | [#566 Python](leetcode_py/problem566/) | [#566 Java](leetcode_java/problem566/) |
 | 575 | [分糖果](https://leetcode-cn.com/problems/distribute-candies/description/) | [#575 Python](leetcode_py/problem575/) | [#575 Java](leetcode_java/problem575/) |
 | 617 | [合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/description/) | [#617 Python](leetcode_py/problem617/) | [#617 Java](leetcode_java/problem617/) |
 | 657 | [机器人能否返回原点](https://leetcode-cn.com/problems/robot-return-to-origin/description/) | [#657 Python](leetcode_py/problem657/) | [#657 Java](leetcode_java/problem657/) |
 | 669 | [修剪二叉搜索树](https://leetcode-cn.com/problems/trim-a-binary-search-tree/) | [#669 Python](leetcode_py/problem669/) | [#669 Java](leetcode_java/problem669/) |
 | 682 | [棒球比赛](https://leetcode-cn.com/problems/baseball-game/description/) | [#682 Python](leetcode_py/problem682/) | [#682 Java](leetcode_java/problem682/) |
+| 728 | [自除数](https://leetcode-cn.com/problems/self-dividing-numbers/description/) | [#728 Python](leetcode_py/problem728/) | [#728 Java](leetcode_java/) |
 | 766 | [托普利茨矩阵](https://leetcode-cn.com/problems/toeplitz-matrix/description/) | [#766 Python](leetcode_py/problem766/) | [#766 Java](leetcode_java/problem766/) |
 | 771 | [宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/description/) | [#771 Python](leetcode_py/problem771/) | [#771 Java](leetcode_java/problem771/) |
 | 804 | [唯一摩尔斯密码词](https://leetcode-cn.com/problems/unique-morse-code-words/description/) | [#804 Python](leetcode_py/problem804/) | [#804 java](leetcode_java/problem804/) |
