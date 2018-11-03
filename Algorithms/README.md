@@ -14,6 +14,7 @@ Leetcode Algorithm Solutions.
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) | [#412 Python](leetcode_py/problem412/) | [#412 Java](leetcode_java/problem412/) |
 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) | [#461 Python](leetcode_py/problem461/) | [#461 Java](leetcode_java/problem461/) |
 | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/description/) | [#463 Python](leetcode_py/problem463/) | [#463 Java](leectode_java/problem463/) |
+| 476 | [Number Complement](https://leetcode.com/problems/number-complement/description/) | [#476 Python](leetcode_py/problem476/) | [#476 Java](leetcode_java/problem476/) |
 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/) | [#496 Python](leetcode_py/problem496/) | [#496 java](leetcode_java/problem496/) |
 | 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/description/) | [#561 Python](leetcode_py/problem561/) | [#561 Java](leetcode_java/problem561/) |
 | 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/) | [#566 Python](leetcode_py/problem566/) | [#566 Java](leetcode_java/problem566/) |
@@ -27,6 +28,8 @@ Leetcode Algorithm Solutions.
 | 766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/) | [#766 Python](leetcode_py/problem766/) | [#766 Java](leetcode_java/problem766/) |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [#771 Python](leetcode_py/problem771/) | [#771 Java](leetcode_java/problem771/) |
 | 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | [#804 Python](leetcode_py/problem804/) | [#804 Java](leetcode_java/problem804/) |
+| 806 | [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/) | [#806 Python](leetcode_py/problem806/) | [#806 Java](leetcode_java/problem806/) |
+| 811 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/) | [#811 Python](leetcode_py/problem811/) | [#811 Java](leetcode_java/problem811/) |
 | 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/solution/) | [#832 Python](leetcode_py/problem832/) | [#832 Java](leetcode_java/problem832/) |
 | 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | [#852 Python](leetcode_py/problem852/) | [#852 Java](leetcode_java/problem852/) |
 
@@ -41,6 +44,7 @@ Leetcode 算法题解。
 | 412 | [Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/description/) | [#412 Python](leetcode_py/problem412/) | [#412 Java](leetcode_java/problem412/) |
 | 461 | [汉明距离](https://leetcode-cn.com/problems/hamming-distance/description/) | [#461 Python](leetcode_py/problem461/) | [#461 Java](leetcode_java/problem461/) |
 | 463 | [岛屿的周长](https://leetcode-cn.com/problems/island-perimeter/description/) | [#463 Python](leetcode_py/problem463/) | [#463 Java](leectode_java/problem463/) |
+| 476 | [数字的补数](https://leetcode-cn.com/problems/number-complement/description/) | [#476 Python](leetcode_py/problem476/) | [#476 Java](leetcode_java/problem476/) |
 | 496 | [下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/description/) | [#496 Python](leetcode_py/problem496/) | [#496 java](leetcode_java/problem496/) |
 | 561 | [数组拆分 I](https://leetcode-cn.com/problems/array-partition-i/description/) | [#561 Python](leetcode_py/problem561/) | [#561 Java](leetcode_java/problem561/) |
 | 566 | [重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix/description/) | [#566 Python](leetcode_py/problem566/) | [#566 Java](leetcode_java/problem566/) |
@@ -54,5 +58,6 @@ Leetcode 算法题解。
 | 771 | [宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/description/) | [#771 Python](leetcode_py/problem771/) | [#771 Java](leetcode_java/problem771/) |
 | 804 | [唯一摩尔斯密码词](https://leetcode-cn.com/problems/unique-morse-code-words/description/) | [#804 Python](leetcode_py/problem804/) | [#804 Java](leetcode_java/problem804/) |
 | 806 | [写字符串需要的行数](https://leetcode-cn.com/problems/number-of-lines-to-write-string/description/) | [#806 Python](leetcode_py/problem806/) | [#806 Java](leetcode_java/problem806/) |
+| 811 | [子域名访问计数](https://leetcode-cn.com/problems/subdomain-visit-count/description/) | [#811 Python](leetcode_py/problem811/) | [#811 Java](leetcode_java/problem811/) |
 | 832 | [翻转图像](https://leetcode-cn.com/problems/flipping-an-image/description/) | [#832 Python](leetcode_py/problem832/) | [#832 Java](leetcode_java/problem832/) |
 | 852 | [山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/description/) | [#852 Python](leetcode_py/problem852/) | [#852 Java](leetcode_java/problem852/) |
