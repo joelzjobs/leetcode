@@ -10,6 +10,7 @@ Leetcode Algorithm Solutions.
 |:---:|:--------:|:----------------:|:--------------:|
 | 136 | [Single Number](https://leetcode.com/problems/single-number/description/) | [#136 Python](leetcode_py/problem136/) | [#136 Java](leetcode_java/problem136/) |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [#226 Python](leetcode_py/problem226/) | [#226 Java](leetcode_java/problem226/) |
+| 243 | [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/description/) | [#243 Python](leetcode_py/problem243/) | [#243 Java](leetcode_java/problem243/) |
 | 266 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/description/) | [#266 Python](leetcode_py/problem266/) | [#266 Java](leetcode_java/problem266/) |
 | 293 | [Flip Game](https://leetcode.com/problems/flip-game/description/) | [#293 Python](leetcode_py/problem293/) | [#293 Java](leetcode_java/problem293/) |
 | 339 | [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/description/) | [#339 Python](leetcode_py/problem339/) | [#339 Java](leetcode_java/problem339) |
