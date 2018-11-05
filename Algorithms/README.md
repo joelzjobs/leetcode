@@ -9,6 +9,7 @@ Leetcode Algorithm Solutions.
 |  #  | Problems | Python Solutions | Java Solutions |
 |:---:|:--------:|:----------------:|:--------------:|
 | 136 | [Single Number](https://leetcode.com/problems/single-number/description/) | [#136 Python](leetcode_py/problem136/) | [#136 Java](leetcode_java/problem136/) |
+| 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [#226 Python](leetcode_py/problem226/) | [#226 Java](leetcode_java/problem226/) |
 | 266 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/description/) | [#266 Python](leetcode_py/problem266/) | [#266 Java](leetcode_java/problem266/) |
 | 293 | [Flip Game](https://leetcode.com/problems/flip-game/description/) | [#293 Python](leetcode_py/problem293/) | [#293 Java](leetcode_java/problem293/) |
 | 339 | [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/description/) | [#339 Python](leetcode_py/problem339/) | [#339 Java](leetcode_java/problem339) |
@@ -50,6 +51,7 @@ Leetcode 算法题解。
 |  #  | 问题 | Python 解 | Java 解 |
 |:---:|:--------:|:----------------:|:--------------:|
 | 136 | [只出现一次的数字](https://leetcode-cn.com/problems/single-number/description/) | [#136 Python](leetcode_py/problem136/) | [#136 Java](leetcode_java/problem136/) |
+| 226 | [翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/description/) | [#226 Python](leetcode_py/problem226/) | [#226 Java](leetcode_java/problem226/) |
 | 344 | [反转字符串](https://leetcode-cn.com/problems/reverse-string/) | [#344 Python](leetcode_py/problem344/) | [#344 Java](leetcode_java/problem344/) |
 | 412 | [Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/description/) | [#412 Python](leetcode_py/problem412/) | [#412 Java](leetcode_java/problem412/) |
 | 461 | [汉明距离](https://leetcode-cn.com/problems/hamming-distance/description/) | [#461 Python](leetcode_py/problem461/) | [#461 Java](leetcode_java/problem461/) |
