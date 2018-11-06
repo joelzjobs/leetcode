@@ -22,6 +22,7 @@ Leetcode Algorithm Solutions.
 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) | [#461 Python](leetcode_py/problem461/) | [#461 Java](leetcode_java/problem461/) |
 | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/description/) | [#463 Python](leetcode_py/problem463/) | [#463 Java](leectode_java/problem463/) |
 | 476 | [Number Complement](https://leetcode.com/problems/number-complement/description/) | [#476 Python](leetcode_py/problem476/) | [#476 Java](leetcode_java/problem476/) |
+| 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) | [#485 Python](leetcode_py/problem485/) | [#485 Java](leetcode_java/problem485/) |
 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/) | [#496 Python](leetcode_py/problem496/) | [#496 Java](leetcode_java/problem496/) |
 | 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/description/) | [#500 Python](leetcode_py/problem500/) | [#500 Java](leetcode_java/problem500/) |
 | 521 | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i) | [#521 Python](leetcode_py/problem521/) | [#521 Java](leetcode_java/problem521/) |
@@ -63,6 +64,7 @@ Leetcode 算法题解。
 | 461 | [汉明距离](https://leetcode-cn.com/problems/hamming-distance/description/) | [#461 Python](leetcode_py/problem461/) | [#461 Java](leetcode_java/problem461/) |
 | 463 | [岛屿的周长](https://leetcode-cn.com/problems/island-perimeter/description/) | [#463 Python](leetcode_py/problem463/) | [#463 Java](leectode_java/problem463/) |
 | 476 | [数字的补数](https://leetcode-cn.com/problems/number-complement/description/) | [#476 Python](leetcode_py/problem476/) | [#476 Java](leetcode_java/problem476/) |
+| 485 | [最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones/description/) | [#485 Python](leetcode_py/problem485/) | [#485 Java](leetcode_java/problem485/) |
 | 496 | [下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/description/) | [#496 Python](leetcode_py/problem496/) | [#496 Java](leetcode_java/problem496/) |
 | 500 | [键盘行](https://leetcode-cn.com/problems/keyboard-row/) | [#500 Python](leetcode_py/problem500/) | [#500 Java](leetcode_java/problem500/) |
 | 521 | [最长特殊序列 Ⅰ](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i/description/) | [#521 Python](leetcode_py/problem521/) | [#521 Java](leetcode_java/problem521/) |
