@@ -45,6 +45,7 @@ Leetcode Algorithm Solutions.
 | 806 | [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/) | [#806 Python](leetcode_py/problem806/) | [#806 Java](leetcode_java/problem806/) |
 | 811 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/) | [#811 Python](leetcode_py/problem811/) | [#811 Java](leetcode_java/problem811/) |
 | 821 | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/description/) | [#821 Python](leetcode_py/problem821/) | [#821 Java](leetcode_java/problem821/) |
+| 824 | [Goat Latin](https://leetcode.com/problems/goat-latin/) | [#824 Python](leetcode_py/problem824/) | [#824 Java](leetcode_java/problem824/) |
 | 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/solution/) | [#832 Python](leetcode_py/problem832/) | [#832 Java](leetcode_java/problem832/) |
 | 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | [#852 Python](leetcode_py/problem852/) | [#852 Java](leetcode_java/problem852/) |
 
@@ -86,5 +87,6 @@ Leetcode 算法题解。
 | 806 | [写字符串需要的行数](https://leetcode-cn.com/problems/number-of-lines-to-write-string/description/) | [#806 Python](leetcode_py/problem806/) | [#806 Java](leetcode_java/problem806/) |
 | 811 | [子域名访问计数](https://leetcode-cn.com/problems/subdomain-visit-count/description/) | [#811 Python](leetcode_py/problem811/) | [#811 Java](leetcode_java/problem811/) |
 | 821 | [字符的最短距离](https://leetcode-cn.com/problems/shortest-distance-to-a-character/) | [#821 Python](leetcode_py/problem821/) | [#821 Java](leetcode_java/problem821/) |
+| 824 | [山羊拉丁文](https://leetcode-cn.com/problems/goat-latin/description/) | [#824 Python](leetcode_py/problem824/) | [#824 Java](leetcode_java/problem824/) |
 | 832 | [翻转图像](https://leetcode-cn.com/problems/flipping-an-image/description/) | [#832 Python](leetcode_py/problem832/) | [#832 Java](leetcode_java/problem832/) |
 | 852 | [山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/description/) | [#852 Python](leetcode_py/problem852/) | [#852 Java](leetcode_java/problem852/) |
