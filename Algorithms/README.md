@@ -14,6 +14,7 @@ Leetcode Algorithm Solutions.
 | 243 | [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/description/) | [#243 Python](leetcode_py/problem243/) | [#243 Java](leetcode_java/problem243/) |
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits) | [#258 Python](leetcode_py/problem258/) | [#258 Java](leetcode_java/problem258/) |
 | 266 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/description/) | [#266 Python](leetcode_py/problem266/) | [#266 Java](leetcode_java/problem266/) |
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [#283 Python](leetcode_py/problem283/) | [#283 Java](leetcode_java/problem283/) |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [#292 Python](leetcode_py/problem292/) | [#292 Java](leetcode_java/problem292/) |
 | 293 | [Flip Game](https://leetcode.com/problems/flip-game/description/) | [#293 Python](leetcode_py/problem293/) | [#293 Java](leetcode_java/problem293/) |
 | 339 | [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/description/) | [#339 Python](leetcode_py/problem339/) | [#339 Java](leetcode_java/problem339) |
@@ -65,6 +66,7 @@ Leetcode 算法题解。
 | 136 | [只出现一次的数字](https://leetcode-cn.com/problems/single-number/description/) | [#136 Python](leetcode_py/problem136/) | [#136 Java](leetcode_java/problem136/) |
 | 226 | [翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/description/) | [#226 Python](leetcode_py/problem226/) | [#226 Java](leetcode_java/problem226/) |
 | 258 | [各位相加](https://leetcode-cn.com/problems/add-digits/description/) | [#258 Python](leetcode_py/problem258/) | [#258 Java](leetcode_java/problem258/) |
+| 283 | [移动零](https://leetcode-cn.com/problems/move-zeroes/description/) | [#283 Python](leetcode_py/problem283/) | [#283 Java](leetcode_java/problem283/) |
 | 292 | [Nim游戏](https://leetcode-cn.com/problems/nim-game/description/) | [#292 Python](leetcode_py/problem292/) | [#292 Java](leetcode_java/problem292/) |
 | 344 | [反转字符串](https://leetcode-cn.com/problems/reverse-string/) | [#344 Python](leetcode_py/problem344/) | [#344 Java](leetcode_java/problem344/) |
 | 412 | [Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/description/) | [#412 Python](leetcode_py/problem412/) | [#412 Java](leetcode_java/problem412/) |
