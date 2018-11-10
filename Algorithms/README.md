@@ -21,6 +21,7 @@ Leetcode Algorithm Solutions.
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/description/) | [#344 Python](leetcode_py/problem344/) | [#344 Java](leetcode_java/problem344/) |
 | 346 | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/description/) | [#346 Python](leetcode_py/problem346/) | [#346 Java](leetcode_java/problem346/) |
 | 359 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/description/) | [#359 Python](leetcode_py/problem359/) | [#359 Java](leetcode_java/problem359/) |
+| 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/description/) | [#389 Python](leetcode_py/problem389/) | [#389 Java](leetcode_java/problem389/) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) | [#412 Python](leetcode_py/problem412/) | [#412 Java](leetcode_java/problem412/) |
 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) | [#461 Python](leetcode_py/problem461/) | [#461 Java](leetcode_java/problem461/) |
 | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/description/) | [#463 Python](leetcode_py/problem463/) | [#463 Java](leectode_java/problem463/) |
@@ -71,6 +72,7 @@ Leetcode 算法题解。
 | 283 | [移动零](https://leetcode-cn.com/problems/move-zeroes/description/) | [#283 Python](leetcode_py/problem283/) | [#283 Java](leetcode_java/problem283/) |
 | 292 | [Nim游戏](https://leetcode-cn.com/problems/nim-game/description/) | [#292 Python](leetcode_py/problem292/) | [#292 Java](leetcode_java/problem292/) |
 | 344 | [反转字符串](https://leetcode-cn.com/problems/reverse-string/) | [#344 Python](leetcode_py/problem344/) | [#344 Java](leetcode_java/problem344/) |
+| 389 | [找不同](https://leetcode-cn.com/problems/find-the-difference/description/) | [#389 Python](leetcode_py/problem389/) | [#389 Java](leetcode_java/problem389/) |
 | 412 | [Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/description/) | [#412 Python](leetcode_py/problem412/) | [#412 Java](leetcode_java/problem412/) |
 | 461 | [汉明距离](https://leetcode-cn.com/problems/hamming-distance/description/) | [#461 Python](leetcode_py/problem461/) | [#461 Java](leetcode_java/problem461/) |
 | 463 | [岛屿的周长](https://leetcode-cn.com/problems/island-perimeter/description/) | [#463 Python](leetcode_py/problem463/) | [#463 Java](leectode_java/problem463/) |
