@@ -39,6 +39,7 @@ Leetcode Algorithm Solutions.
 | 657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [#657 Python](leetcode_py/problem657/) | [#657 Java](leetcode_java/problem657/) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/) | [#669 Python](leetcode_py/problem669/) | [#669 Java](leetcode_java/problem669/) |
 | 682 | [Baseball Game](https://leetcode.com/problems/baseball-game/description/) | [#682 Python](leetcode_py/problem682/) | [#682 Java](leetcode_java/problem682/) |
+| 690 | [Employee Importance](https://leetcode.com/problems/employee-importance/) | [#690 Python](leetcode_py/problem690/) | [#690 Java](leetcode_java/problem690/) |
 | 693 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) | [#693 Python](leetcode_py/problem693/) | [#693 Java](leetcode_java/problem693/) |
 | 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) | [#695 Python](leetcode_py/problem695/) | [#695 Java](leetcode_java/problem695/) |
 | 728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/) | [#728 Python](leetcode_py/problem728/) | [#728 Java](leetcode_java/problem728/) |
@@ -88,6 +89,7 @@ Leetcode 算法题解。
 | 657 | [机器人能否返回原点](https://leetcode-cn.com/problems/robot-return-to-origin/description/) | [#657 Python](leetcode_py/problem657/) | [#657 Java](leetcode_java/problem657/) |
 | 669 | [修剪二叉搜索树](https://leetcode-cn.com/problems/trim-a-binary-search-tree/) | [#669 Python](leetcode_py/problem669/) | [#669 Java](leetcode_java/problem669/) |
 | 682 | [棒球比赛](https://leetcode-cn.com/problems/baseball-game/description/) | [#682 Python](leetcode_py/problem682/) | [#682 Java](leetcode_java/problem682/) |
+| 690 | [员工的重要性](https://leetcode-cn.com/problems/employee-importance/description/) | [#690 Python](leetcode_py/problem690/) | [#690 Java](leetcode_java/problem690/) |
 | 693 | [交替位二进制数](https://leetcode-cn.com/problems/binary-number-with-alternating-bits/description/) | [#693 Python](leetcode_py/problem693/) | [#693 Java](leetcode_java/problem693/) |
 | 695 | [岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/description/) | [#695 Python](leetcode_py/problem695/) | [#695 Java](leetcode_java/problem695/) |
 | 728 | [自除数](https://leetcode-cn.com/problems/self-dividing-numbers/description/) | [#728 Python](leetcode_py/problem728/) | [#728 Java](leetcode_java/problem728/) |
