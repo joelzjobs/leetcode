@@ -28,6 +28,7 @@ Leetcode Algorithm Solutions.
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) | [#485 Python](leetcode_py/problem485/) | [#485 Java](leetcode_java/problem485/) |
 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/) | [#496 Python](leetcode_py/problem496/) | [#496 Java](leetcode_java/problem496/) |
 | 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/description/) | [#500 Python](leetcode_py/problem500/) | [#500 Java](leetcode_java/problem500/) |
+| 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [#520 Python](leetcode_py/problem520/) | [#520 Java](leetcode_java/problem520/) |
 | 521 | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i) | [#521 Python](leetcode_py/problem521/) | [#521 Java](leetcode_java/problem521/) |
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) | [#557 Python](leetcode_py/problem557/) | [#557 Java](leetcode_java/problem557/) |
 | 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/description/) | [#561 Python](leetcode_py/problem561/) | [#561 Java](leetcode_java/problem561/) |
@@ -76,6 +77,7 @@ Leetcode 算法题解。
 | 485 | [最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones/description/) | [#485 Python](leetcode_py/problem485/) | [#485 Java](leetcode_java/problem485/) |
 | 496 | [下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/description/) | [#496 Python](leetcode_py/problem496/) | [#496 Java](leetcode_java/problem496/) |
 | 500 | [键盘行](https://leetcode-cn.com/problems/keyboard-row/) | [#500 Python](leetcode_py/problem500/) | [#500 Java](leetcode_java/problem500/) |
+| 520 | [检测大写字母](https://leetcode-cn.com/problems/detect-capital/description/) | [#520 Python](leetcode_py/problem520/) | [#520 Java](leetcode_java/problem520/) |
 | 521 | [最长特殊序列 Ⅰ](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i/description/) | [#521 Python](leetcode_py/problem521/) | [#521 Java](leetcode_java/problem521/) |
 | 557 | [反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | [#557 Python](leetcode_py/problem557/) | [#557 Java](leetcode_java/problem557/) |
 | 561 | [数组拆分 I](https://leetcode-cn.com/problems/array-partition-i/description/) | [#561 Python](leetcode_py/problem561/) | [#561 Java](leetcode_java/problem561/) |
