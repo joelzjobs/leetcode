@@ -37,6 +37,7 @@ Leetcode Algorithm Solutions.
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/) | [#669 Python](leetcode_py/problem669/) | [#669 Java](leetcode_java/problem669/) |
 | 682 | [Baseball Game](https://leetcode.com/problems/baseball-game/description/) | [#682 Python](leetcode_py/problem682/) | [#682 Java](leetcode_java/problem682/) |
 | 693 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) | [#693 Python](leetcode_py/problem693/) | [#693 Java](leetcode_java/problem693/) |
+| 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) | [#695 Python](leetcode_py/problem695/) | [#695 Java](leetcode_java/problem695/) |
 | 728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/) | [#728 Python](leetcode_py/problem728/) | [#728 Java](leetcode_java/problem728/) |
 | 760 | [Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/description/) | [#760 Python](leetcode_py/problem760/) |  [#760 Java](leetcode_java/problem760/) |
 | 762 | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [#762 Python](leetcode_py/problem762/) | [#762 Java](leetcode_java/problem762/) |
@@ -82,6 +83,7 @@ Leetcode 算法题解。
 | 669 | [修剪二叉搜索树](https://leetcode-cn.com/problems/trim-a-binary-search-tree/) | [#669 Python](leetcode_py/problem669/) | [#669 Java](leetcode_java/problem669/) |
 | 682 | [棒球比赛](https://leetcode-cn.com/problems/baseball-game/description/) | [#682 Python](leetcode_py/problem682/) | [#682 Java](leetcode_java/problem682/) |
 | 693 | [交替位二进制数](https://leetcode-cn.com/problems/binary-number-with-alternating-bits/description/) | [#693 Python](leetcode_py/problem693/) | [#693 Java](leetcode_java/problem693/) |
+| 695 | [岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/description/) | [#695 Python](leetcode_py/problem695/) | [#695 Java](leetcode_java/problem695/) |
 | 728 | [自除数](https://leetcode-cn.com/problems/self-dividing-numbers/description/) | [#728 Python](leetcode_py/problem728/) | [#728 Java](leetcode_java/problem728/) |
 | 762 | [二进制表示中质数个计算置位](https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation/description/) | [#762 Python](leetcode_py/problem762/) | [#762 Java](leetcode_java/problem762/) |
 | 766 | [托普利茨矩阵](https://leetcode-cn.com/problems/toeplitz-matrix/description/) | [#766 Python](leetcode_py/problem766/) | [#766 Java](leetcode_java/problem766/) |
