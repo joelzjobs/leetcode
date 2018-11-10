@@ -42,6 +42,7 @@ Leetcode Algorithm Solutions.
 | 762 | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [#762 Python](leetcode_py/problem762/) | [#762 Java](leetcode_java/problem762/) |
 | 766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/) | [#766 Python](leetcode_py/problem766/) | [#766 Java](leetcode_java/problem766/) |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [#771 Python](leetcode_py/problem771/) | [#771 Java](leetcode_java/problem771/) |
+| 784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | [#784 Python](leetcode_py/problem784/) | [#784 Java](leetcode_java/problem784/) |
 | 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | [#804 Python](leetcode_py/problem804/) | [#804 Java](leetcode_java/problem804/) |
 | 806 | [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/) | [#806 Python](leetcode_py/problem806/) | [#806 Java](leetcode_java/problem806/) |
 | 811 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/) | [#811 Python](leetcode_py/problem811/) | [#811 Java](leetcode_java/problem811/) |
@@ -85,6 +86,7 @@ Leetcode 算法题解。
 | 762 | [二进制表示中质数个计算置位](https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation/description/) | [#762 Python](leetcode_py/problem762/) | [#762 Java](leetcode_java/problem762/) |
 | 766 | [托普利茨矩阵](https://leetcode-cn.com/problems/toeplitz-matrix/description/) | [#766 Python](leetcode_py/problem766/) | [#766 Java](leetcode_java/problem766/) |
 | 771 | [宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/description/) | [#771 Python](leetcode_py/problem771/) | [#771 Java](leetcode_java/problem771/) |
+| 784 | [字母大小写全排列](https://leetcode-cn.com/problems/letter-case-permutation/description/) | [#784 Python](leetcode_py/problem784/) | [#784 Java](leetcode_java/problem784/) |
 | 804 | [唯一摩尔斯密码词](https://leetcode-cn.com/problems/unique-morse-code-words/description/) | [#804 Python](leetcode_py/problem804/) | [#804 Java](leetcode_java/problem804/) |
 | 806 | [写字符串需要的行数](https://leetcode-cn.com/problems/number-of-lines-to-write-string/description/) | [#806 Python](leetcode_py/problem806/) | [#806 Java](leetcode_java/problem806/) |
 | 811 | [子域名访问计数](https://leetcode-cn.com/problems/subdomain-visit-count/description/) | [#811 Python](leetcode_py/problem811/) | [#811 Java](leetcode_java/problem811/) |
