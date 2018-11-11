@@ -23,6 +23,7 @@ Leetcode Algorithm Solutions.
 | 359 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/description/) | [#359 Python](leetcode_py/problem359/) | [#359 Java](leetcode_java/problem359/) |
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/description/) | [#389 Python](leetcode_py/problem389/) | [#389 Java](leetcode_java/problem389/) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) | [#412 Python](leetcode_py/problem412/) | [#412 Java](leetcode_java/problem412/) |
+| 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [#448 Python](leetcode_py/problem448/) | [#448 Java](leetcode_java/problem448/) |
 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) | [#461 Python](leetcode_py/problem461/) | [#461 Java](leetcode_java/problem461/) |
 | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/description/) | [#463 Python](leetcode_py/problem463/) | [#463 Java](leectode_java/problem463/) |
 | 476 | [Number Complement](https://leetcode.com/problems/number-complement/description/) | [#476 Python](leetcode_py/problem476/) | [#476 Java](leetcode_java/problem476/) |
@@ -74,6 +75,7 @@ Leetcode 算法题解。
 | 344 | [反转字符串](https://leetcode-cn.com/problems/reverse-string/) | [#344 Python](leetcode_py/problem344/) | [#344 Java](leetcode_java/problem344/) |
 | 389 | [找不同](https://leetcode-cn.com/problems/find-the-difference/description/) | [#389 Python](leetcode_py/problem389/) | [#389 Java](leetcode_java/problem389/) |
 | 412 | [Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/description/) | [#412 Python](leetcode_py/problem412/) | [#412 Java](leetcode_java/problem412/) |
+| 448 | [找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [#448 Python](leetcode_py/problem448/) | [#448 Java](leetcode_java/problem448/) |
 | 461 | [汉明距离](https://leetcode-cn.com/problems/hamming-distance/description/) | [#461 Python](leetcode_py/problem461/) | [#461 Java](leetcode_java/problem461/) |
 | 463 | [岛屿的周长](https://leetcode-cn.com/problems/island-perimeter/description/) | [#463 Python](leetcode_py/problem463/) | [#463 Java](leectode_java/problem463/) |
 | 476 | [数字的补数](https://leetcode-cn.com/problems/number-complement/description/) | [#476 Python](leetcode_py/problem476/) | [#476 Java](leetcode_java/problem476/) |
