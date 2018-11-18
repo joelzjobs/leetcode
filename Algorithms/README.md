@@ -37,6 +37,7 @@ Leetcode Algorithm Solutions.
 | 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/description/) | [#561 Python](leetcode_py/problem561/) | [#561 Java](leetcode_java/problem561/) |
 | 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/) | [#566 Python](leetcode_py/problem566/) | [#566 Java](leetcode_java/problem566/) |
 | 575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/description/) | [#575 Python](leetcode_py/problem575/) | [#575 Java](leetcode_java/problem575/) |
+| 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [#606 Python](leetcode_py/problem606/) | [#606 Java](leetcode_java/problem606/) |
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/) | [#617 Python](leetcode_py/problem617/) | [#617 Java](leetcode_java/problem617/) |
 | 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [#637 Python](leetcode_py/problem637/) | [#637 Java](leetcode_java/problem637/) |
 | 653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [#653 Python](leetcode_py/problem653/) | [#653 Java](leetcode_java/problem653/) |
@@ -92,6 +93,7 @@ Leetcode 算法题解。
 | 561 | [数组拆分 I](https://leetcode-cn.com/problems/array-partition-i/description/) | [#561 Python](leetcode_py/problem561/) | [#561 Java](leetcode_java/problem561/) |
 | 566 | [重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix/description/) | [#566 Python](leetcode_py/problem566/) | [#566 Java](leetcode_java/problem566/) |
 | 575 | [分糖果](https://leetcode-cn.com/problems/distribute-candies/description/) | [#575 Python](leetcode_py/problem575/) | [#575 Java](leetcode_java/problem575/) |
+| 606 | [根据二叉树创建字符串](https://leetcode-cn.com/problems/construct-string-from-binary-tree/) | [#606 Python](leetcode_py/problem606/) | [#606 Java](leetcode_java/problem606/) |
 | 617 | [合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/description/) | [#617 Python](leetcode_py/problem617/) | [#617 Java](leetcode_java/problem617/) |
 | 637 | [二叉树的层平均值](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/description/) | [#637 Python](leetcode_py/problem637/) | [#637 Java](leetcode_java/problem637/) |
 | 653 | [两数之和 IV - 输入 BST](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/) | [#653 Python](leetcode_py/problem653/) | [#653 Java](leetcode_java/problem653/) |
