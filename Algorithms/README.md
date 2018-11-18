@@ -39,6 +39,7 @@ Leetcode Algorithm Solutions.
 | 575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/description/) | [#575 Python](leetcode_py/problem575/) | [#575 Java](leetcode_java/problem575/) |
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/) | [#617 Python](leetcode_py/problem617/) | [#617 Java](leetcode_java/problem617/) |
 | 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [#637 Python](leetcode_py/problem637/) | [#637 Java](leetcode_java/problem637/) |
+| 653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [#653 Python](leetcode_py/problem653/) | [#653 Java](leetcode_java/problem653/) |
 | 657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [#657 Python](leetcode_py/problem657/) | [#657 Java](leetcode_java/problem657/) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/) | [#669 Python](leetcode_py/problem669/) | [#669 Java](leetcode_java/problem669/) |
 | 682 | [Baseball Game](https://leetcode.com/problems/baseball-game/description/) | [#682 Python](leetcode_py/problem682/) | [#682 Java](leetcode_java/problem682/) |
@@ -52,6 +53,7 @@ Leetcode Algorithm Solutions.
 | 766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/) | [#766 Python](leetcode_py/problem766/) | [#766 Java](leetcode_java/problem766/) |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [#771 Python](leetcode_py/problem771/) | [#771 Java](leetcode_java/problem771/) |
 | 784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | [#784 Python](leetcode_py/problem784/) | [#784 Java](leetcode_java/problem784/) |
+| 796 | [Rotate String](https://leetcode.com/problems/rotate-string/) | [#796 Python](leetcode_py/problem796/) | [#796 Java](leetcode_java/problem796/) |
 | 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | [#804 Python](leetcode_py/problem804/) | [#804 Java](leetcode_java/problem804/) |
 | 806 | [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/) | [#806 Python](leetcode_py/problem806/) | [#806 Java](leetcode_java/problem806/) |
 | 811 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/) | [#811 Python](leetcode_py/problem811/) | [#811 Java](leetcode_java/problem811/) |
@@ -92,6 +94,7 @@ Leetcode 算法题解。
 | 575 | [分糖果](https://leetcode-cn.com/problems/distribute-candies/description/) | [#575 Python](leetcode_py/problem575/) | [#575 Java](leetcode_java/problem575/) |
 | 617 | [合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/description/) | [#617 Python](leetcode_py/problem617/) | [#617 Java](leetcode_java/problem617/) |
 | 637 | [二叉树的层平均值](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/description/) | [#637 Python](leetcode_py/problem637/) | [#637 Java](leetcode_java/problem637/) |
+| 653 | [两数之和 IV - 输入 BST](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/) | [#653 Python](leetcode_py/problem653/) | [#653 Java](leetcode_java/problem653/) |
 | 657 | [机器人能否返回原点](https://leetcode-cn.com/problems/robot-return-to-origin/description/) | [#657 Python](leetcode_py/problem657/) | [#657 Java](leetcode_java/problem657/) |
 | 669 | [修剪二叉搜索树](https://leetcode-cn.com/problems/trim-a-binary-search-tree/) | [#669 Python](leetcode_py/problem669/) | [#669 Java](leetcode_java/problem669/) |
 | 682 | [棒球比赛](https://leetcode-cn.com/problems/baseball-game/description/) | [#682 Python](leetcode_py/problem682/) | [#682 Java](leetcode_java/problem682/) |
@@ -104,6 +107,7 @@ Leetcode 算法题解。
 | 766 | [托普利茨矩阵](https://leetcode-cn.com/problems/toeplitz-matrix/description/) | [#766 Python](leetcode_py/problem766/) | [#766 Java](leetcode_java/problem766/) |
 | 771 | [宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/description/) | [#771 Python](leetcode_py/problem771/) | [#771 Java](leetcode_java/problem771/) |
 | 784 | [字母大小写全排列](https://leetcode-cn.com/problems/letter-case-permutation/description/) | [#784 Python](leetcode_py/problem784/) | [#784 Java](leetcode_java/problem784/) |
+| 796 | [旋转字符串](https://leetcode-cn.com/problems/rotate-string/) | [#796 Python](leetcode_py/problem796/) | [#796 Java](leetcode_java/problem796/) |
 | 804 | [唯一摩尔斯密码词](https://leetcode-cn.com/problems/unique-morse-code-words/description/) | [#804 Python](leetcode_py/problem804/) | [#804 Java](leetcode_java/problem804/) |
 | 806 | [写字符串需要的行数](https://leetcode-cn.com/problems/number-of-lines-to-write-string/description/) | [#806 Python](leetcode_py/problem806/) | [#806 Java](leetcode_java/problem806/) |
 | 811 | [子域名访问计数](https://leetcode-cn.com/problems/subdomain-visit-count/description/) | [#811 Python](leetcode_py/problem811/) | [#811 Java](leetcode_java/problem811/) |
