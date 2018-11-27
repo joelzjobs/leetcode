@@ -10,6 +10,7 @@ Leetcode Algorithm Solutions.
 |:---:|:--------:|:----------------:|:--------------:|
 | 13  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [#13 Python](leetcode_py/problem13/) | [#13 Java](leetcode_java/problem13/) |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [#104 Python](leetcode_py/problem104/) | [#104 Java](leetcode_java/problem104/) |
+| 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [#122 Python](leetcode_py/problem122) | [#122 Java](leetcode_java/problem122) |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/description/) | [#136 Python](leetcode_py/problem136/) | [#136 Java](leetcode_java/problem136/) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [#169 Python](leetcode_py/problem169/) | [#169 Java](leetcode_java/problem169/) |
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [#171 Python](leetcode_py/problem171) | [#171 Java](leetcode_java/problem171/) |
@@ -24,15 +25,18 @@ Leetcode Algorithm Solutions.
 | 339 | [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/description/) | [#339 Python](leetcode_py/problem339/) | [#339 Java](leetcode_java/problem339) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/description/) | [#344 Python](leetcode_py/problem344/) | [#344 Java](leetcode_java/problem344/) |
 | 346 | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/description/) | [#346 Python](leetcode_py/problem346/) | [#346 Java](leetcode_java/problem346/) |
+| 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) | [#349 Python](leetcode_py/problem349/) | [#349 Java](leetcode_java/problem349/) |
 | 359 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/description/) | [#359 Python](leetcode_py/problem359/) | [#359 Java](leetcode_java/problem359/) |
 | 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers) | | [#371 Java](leetcode_java/problem371/) |
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/description/) | [#389 Python](leetcode_py/problem389/) | [#389 Java](leetcode_java/problem389/) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) | [#412 Python](leetcode_py/problem412/) | [#412 Java](leetcode_java/problem412/) |
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [#448 Python](leetcode_py/problem448/) | [#448 Java](leetcode_java/problem448/) |
+| 453 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [#453 Python](leetcode_py/problem453/) | [#453 Java](leetcode_java/problem453/) |
 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) | [#461 Python](leetcode_py/problem461/) | [#461 Java](leetcode_java/problem461/) |
 | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/description/) | [#463 Python](leetcode_py/problem463/) | [#463 Java](leectode_java/problem463/) |
 | 476 | [Number Complement](https://leetcode.com/problems/number-complement/description/) | [#476 Python](leetcode_py/problem476/) | [#476 Java](leetcode_java/problem476/) |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) | [#485 Python](leetcode_py/problem485/) | [#485 Java](leetcode_java/problem485/) |
+| 492 | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/) | [#492 Python](leetcode_py/problem492) | [#492 Java](leetcode_java/problem492) |
 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/) | [#496 Python](leetcode_py/problem496/) | [#496 Java](leetcode_java/problem496/) |
 | 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/description/) | [#500 Python](leetcode_py/problem500/) | [#500 Java](leetcode_java/problem500/) |
 | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [#520 Python](leetcode_py/problem520/) | [#520 Java](leetcode_java/problem520/) |
@@ -42,6 +46,7 @@ Leetcode Algorithm Solutions.
 | 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/description/) | [#561 Python](leetcode_py/problem561/) | [#561 Java](leetcode_java/problem561/) |
 | 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/) | [#566 Python](leetcode_py/problem566/) | [#566 Java](leetcode_java/problem566/) |
 | 575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/description/) | [#575 Python](leetcode_py/problem575/) | [#575 Java](leetcode_java/problem575/) |
+| 598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii/) | [#598 Python](leetcode_py/problem598) | [#598 Java](leetcode_java/problem598) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [#606 Python](leetcode_py/problem606/) | [#606 Java](leetcode_java/problem606/) |
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/) | [#617 Python](leetcode_py/problem617/) | [#617 Java](leetcode_java/problem617/) |
 | 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [#637 Python](leetcode_py/problem637/) | [#637 Java](leetcode_java/problem637/) |
@@ -80,6 +85,7 @@ Leetcode 算法题解。
 |:---:|:--------:|:----------------:|:--------------:|
 | 13  | [罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/) | [#13 Python](leetcode_py/problem13/) | [#13 Java](leetcode_java/problem13/) |
 | 104 | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/description/) | [#104 Python](leetcode_py/problem104/) | [#104 Java](leetcode_java/problem104/) |
+| 122 | [买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | [#122 Python](leetcode_py/problem122) | [#122 Java](leetcode_java/problem122) |
 | 136 | [只出现一次的数字](https://leetcode-cn.com/problems/single-number/description/) | [#136 Python](leetcode_py/problem136/) | [#136 Java](leetcode_java/problem136/) |
 | 169 | [求众数](https://leetcode-cn.com/problems/majority-element/) | [#169 Python](leetcode_py/problem169/) | [#169 Java](leetcode_java/problem169/) |
 | 171 | [Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/) | [#171 Python](leetcode_py/problem171) | [#171 Java](leetcode_java/problem171/) |
@@ -88,13 +94,16 @@ Leetcode 算法题解。
 | 283 | [移动零](https://leetcode-cn.com/problems/move-zeroes/description/) | [#283 Python](leetcode_py/problem283/) | [#283 Java](leetcode_java/problem283/) |
 | 292 | [Nim游戏](https://leetcode-cn.com/problems/nim-game/description/) | [#292 Python](leetcode_py/problem292/) | [#292 Java](leetcode_java/problem292/) |
 | 344 | [反转字符串](https://leetcode-cn.com/problems/reverse-string/) | [#344 Python](leetcode_py/problem344/) | [#344 Java](leetcode_java/problem344/) |
+| 349 | [两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/) | [#349 Python](leetcode_py/problem349/) | [#349 Java](leetcode_java/problem349/) |
 | 389 | [找不同](https://leetcode-cn.com/problems/find-the-difference/description/) | [#389 Python](leetcode_py/problem389/) | [#389 Java](leetcode_java/problem389/) |
 | 412 | [Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/description/) | [#412 Python](leetcode_py/problem412/) | [#412 Java](leetcode_java/problem412/) |
 | 448 | [找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [#448 Python](leetcode_py/problem448/) | [#448 Java](leetcode_java/problem448/) |
+| 453 | [最小移动次数使数组元素相等](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/) | [#453 Python](leetcode_py/problem453/) | [#453 Java](leetcode_java/problem453/) |
 | 461 | [汉明距离](https://leetcode-cn.com/problems/hamming-distance/description/) | [#461 Python](leetcode_py/problem461/) | [#461 Java](leetcode_java/problem461/) |
 | 463 | [岛屿的周长](https://leetcode-cn.com/problems/island-perimeter/description/) | [#463 Python](leetcode_py/problem463/) | [#463 Java](leectode_java/problem463/) |
 | 476 | [数字的补数](https://leetcode-cn.com/problems/number-complement/description/) | [#476 Python](leetcode_py/problem476/) | [#476 Java](leetcode_java/problem476/) |
 | 485 | [最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones/description/) | [#485 Python](leetcode_py/problem485/) | [#485 Java](leetcode_java/problem485/) |
+| 492 | [构造矩形](https://leetcode-cn.com/problems/construct-the-rectangle/) | [#492 Python](leetcode_py/problem492) | [#492 Java](leetcode_java/problem492) |
 | 496 | [下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/description/) | [#496 Python](leetcode_py/problem496/) | [#496 Java](leetcode_java/problem496/) |
 | 500 | [键盘行](https://leetcode-cn.com/problems/keyboard-row/) | [#500 Python](leetcode_py/problem500/) | [#500 Java](leetcode_java/problem500/) |
 | 520 | [检测大写字母](https://leetcode-cn.com/problems/detect-capital/description/) | [#520 Python](leetcode_py/problem520/) | [#520 Java](leetcode_java/problem520/) |
@@ -104,6 +113,7 @@ Leetcode 算法题解。
 | 561 | [数组拆分 I](https://leetcode-cn.com/problems/array-partition-i/description/) | [#561 Python](leetcode_py/problem561/) | [#561 Java](leetcode_java/problem561/) |
 | 566 | [重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix/description/) | [#566 Python](leetcode_py/problem566/) | [#566 Java](leetcode_java/problem566/) |
 | 575 | [分糖果](https://leetcode-cn.com/problems/distribute-candies/description/) | [#575 Python](leetcode_py/problem575/) | [#575 Java](leetcode_java/problem575/) |
+| 598 | [范围求和 II](https://leetcode-cn.com/problems/range-addition-ii/) | [#598 Python](leetcode_py/problem598) | [#598 Java](leetcode_java/problem598) |
 | 606 | [根据二叉树创建字符串](https://leetcode-cn.com/problems/construct-string-from-binary-tree/) | [#606 Python](leetcode_py/problem606/) | [#606 Java](leetcode_java/problem606/) |
 | 617 | [合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/description/) | [#617 Python](leetcode_py/problem617/) | [#617 Java](leetcode_java/problem617/) |
 | 637 | [二叉树的层平均值](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/description/) | [#637 Python](leetcode_py/problem637/) | [#637 Java](leetcode_java/problem637/) |
