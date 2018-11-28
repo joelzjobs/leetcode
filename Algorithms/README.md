@@ -9,12 +9,14 @@ Leetcode Algorithm Solutions.
 |  #  | Problems | Python Solutions | Java Solutions |
 |:---:|:--------:|:----------------:|:--------------:|
 | 13  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [#13 Python](leetcode_py/problem13/) | [#13 Java](leetcode_java/problem13/) |
+| 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [#100 Python](leetcode_py/problem100/) | [#100 Java](leetcode_java/problem100/) |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [#104 Python](leetcode_py/problem104/) | [#104 Java](leetcode_java/problem104/) |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [#122 Python](leetcode_py/problem122) | [#122 Java](leetcode_java/problem122) |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/description/) | [#136 Python](leetcode_py/problem136/) | [#136 Java](leetcode_java/problem136/) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [#169 Python](leetcode_py/problem169/) | [#169 Java](leetcode_java/problem169/) |
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [#171 Python](leetcode_py/problem171) | [#171 Java](leetcode_java/problem171/) |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [#226 Python](leetcode_py/problem226/) | [#226 Java](leetcode_java/problem226/) |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [#242 Python](leetcode_py/problem242/) | [#242 Java](leetcode_java/problem242) |
 | 243 | [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/description/) | [#243 Python](leetcode_py/problem243/) | [#243 Java](leetcode_java/problem243/) |
 | 252 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) | [#252 Python](leetcode_py/problem252/) | [#252 Java](leetcode_java/problem252) |
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits) | [#258 Python](leetcode_py/problem258/) | [#258 Java](leetcode_java/problem258/) |
@@ -84,12 +86,14 @@ Leetcode 算法题解。
 |  #  | 问题 | Python 解 | Java 解 |
 |:---:|:--------:|:----------------:|:--------------:|
 | 13  | [罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/) | [#13 Python](leetcode_py/problem13/) | [#13 Java](leetcode_java/problem13/) |
+| 100 | [相同的树](https://leetcode-cn.com/problems/same-tree/) | [#100 Python](leetcode_py/problem100/) | [#100 Java](leetcode_java/problem100/) |
 | 104 | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/description/) | [#104 Python](leetcode_py/problem104/) | [#104 Java](leetcode_java/problem104/) |
 | 122 | [买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | [#122 Python](leetcode_py/problem122) | [#122 Java](leetcode_java/problem122) |
 | 136 | [只出现一次的数字](https://leetcode-cn.com/problems/single-number/description/) | [#136 Python](leetcode_py/problem136/) | [#136 Java](leetcode_java/problem136/) |
 | 169 | [求众数](https://leetcode-cn.com/problems/majority-element/) | [#169 Python](leetcode_py/problem169/) | [#169 Java](leetcode_java/problem169/) |
 | 171 | [Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/) | [#171 Python](leetcode_py/problem171) | [#171 Java](leetcode_java/problem171/) |
 | 226 | [翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/description/) | [#226 Python](leetcode_py/problem226/) | [#226 Java](leetcode_java/problem226/) |
+| 242 | [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/) | [#242 Python](leetcode_py/problem242/) | [#242 Java](leetcode_java/problem242) |
 | 258 | [各位相加](https://leetcode-cn.com/problems/add-digits/description/) | [#258 Python](leetcode_py/problem258/) | [#258 Java](leetcode_java/problem258/) |
 | 283 | [移动零](https://leetcode-cn.com/problems/move-zeroes/description/) | [#283 Python](leetcode_py/problem283/) | [#283 Java](leetcode_java/problem283/) |
 | 292 | [Nim游戏](https://leetcode-cn.com/problems/nim-game/description/) | [#292 Python](leetcode_py/problem292/) | [#292 Java](leetcode_java/problem292/) |
