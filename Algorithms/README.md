@@ -15,6 +15,8 @@ Leetcode Algorithm Solutions.
 | 136 | [Single Number](https://leetcode.com/problems/single-number/description/) | [#136 Python](leetcode_py/problem136/) | [#136 Java](leetcode_java/problem136/) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [#169 Python](leetcode_py/problem169/) | [#169 Java](leetcode_java/problem169/) |
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [#171 Python](leetcode_py/problem171) | [#171 Java](leetcode_java/problem171/) |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [#206 Python](leetcode_py/problem206/) | [#206 Java](leetcode_java/problem206/) |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/solution/) | [#217 Python](leetcode_py/problem217/) | [#217 Java](leetcode_java/problem217/) |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [#226 Python](leetcode_py/problem226/) | [#226 Java](leetcode_java/problem226/) |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [#242 Python](leetcode_py/problem242/) | [#242 Java](leetcode_java/problem242) |
 | 243 | [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/description/) | [#243 Python](leetcode_py/problem243/) | [#243 Java](leetcode_java/problem243/) |
@@ -30,6 +32,7 @@ Leetcode Algorithm Solutions.
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) | [#349 Python](leetcode_py/problem349/) | [#349 Java](leetcode_java/problem349/) |
 | 359 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/description/) | [#359 Python](leetcode_py/problem359/) | [#359 Java](leetcode_java/problem359/) |
 | 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers) | | [#371 Java](leetcode_java/problem371/) |
+| 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [#383 Python](leetcode_py/problem383/) | [#383 Java](leetcode_java/problem383/) |
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/description/) | [#389 Python](leetcode_py/problem389/) | [#389 Java](leetcode_java/problem389/) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) | [#412 Python](leetcode_py/problem412/) | [#412 Java](leetcode_java/problem412/) |
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [#448 Python](leetcode_py/problem448/) | [#448 Java](leetcode_java/problem448/) |
@@ -43,6 +46,7 @@ Leetcode Algorithm Solutions.
 | 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/description/) | [#500 Python](leetcode_py/problem500/) | [#500 Java](leetcode_java/problem500/) |
 | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [#520 Python](leetcode_py/problem520/) | [#520 Java](leetcode_java/problem520/) |
 | 521 | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i) | [#521 Python](leetcode_py/problem521/) | [#521 Java](leetcode_java/problem521/) |
+| 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [#530 Python](leetcode_py/problem530/) | [#530 Java](leetcode_java/problem530/) |
 | 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [#538 Python](leetcode_py/problem538/) | [#538 Java](leetcode_java/problem538/) |
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) | [#557 Python](leetcode_py/problem557/) | [#557 Java](leetcode_java/problem557/) |
 | 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/description/) | [#561 Python](leetcode_py/problem561/) | [#561 Java](leetcode_java/problem561/) |
@@ -62,10 +66,12 @@ Leetcode Algorithm Solutions.
 | 696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings) | [#696 Python](leetcode_py/problem696/) | [#696 Java](leetcode_java/problem696/) |
 | 717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/) | [#717 Python](leetcode_py/problem717/) | [#717 Java](leetcode_java/problem717/) |
 | 728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/) | [#728 Python](leetcode_py/problem728/) | [#728 Java](leetcode_java/problem728/) |
+| 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | [#733 Python](leetcode_py/problem733/) | [#733 Java](leetcode_java/problem733/) |
 | 760 | [Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/description/) | [#760 Python](leetcode_py/problem760/) |  [#760 Java](leetcode_java/problem760/) |
 | 762 | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [#762 Python](leetcode_py/problem762/) | [#762 Java](leetcode_java/problem762/) |
 | 766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/) | [#766 Python](leetcode_py/problem766/) | [#766 Java](leetcode_java/problem766/) |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [#771 Python](leetcode_py/problem771/) | [#771 Java](leetcode_java/problem771/) |
+| 783 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)] | [#783 Python](leetcode_py/problem783/) | [#783 Java](leetcode_java/problem783/) |
 | 784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | [#784 Python](leetcode_py/problem784/) | [#784 Java](leetcode_java/problem784/) |
 | 796 | [Rotate String](https://leetcode.com/problems/rotate-string/) | [#796 Python](leetcode_py/problem796/) | [#796 Java](leetcode_java/problem796/) |
 | 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | [#804 Python](leetcode_py/problem804/) | [#804 Java](leetcode_java/problem804/) |
@@ -92,6 +98,8 @@ Leetcode 算法题解。
 | 136 | [只出现一次的数字](https://leetcode-cn.com/problems/single-number/description/) | [#136 Python](leetcode_py/problem136/) | [#136 Java](leetcode_java/problem136/) |
 | 169 | [求众数](https://leetcode-cn.com/problems/majority-element/) | [#169 Python](leetcode_py/problem169/) | [#169 Java](leetcode_java/problem169/) |
 | 171 | [Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/) | [#171 Python](leetcode_py/problem171) | [#171 Java](leetcode_java/problem171/) |
+| 206 | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [#206 Python](leetcode_py/problem206/) | [#206 Java](leetcode_java/problem206/) |
+| 217 | [存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/) | [#217 Python](leetcode_py/problem217/) | [#217 Java](leetcode_java/problem217/) |
 | 226 | [翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/description/) | [#226 Python](leetcode_py/problem226/) | [#226 Java](leetcode_java/problem226/) |
 | 242 | [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/) | [#242 Python](leetcode_py/problem242/) | [#242 Java](leetcode_java/problem242) |
 | 258 | [各位相加](https://leetcode-cn.com/problems/add-digits/description/) | [#258 Python](leetcode_py/problem258/) | [#258 Java](leetcode_java/problem258/) |
@@ -99,6 +107,7 @@ Leetcode 算法题解。
 | 292 | [Nim游戏](https://leetcode-cn.com/problems/nim-game/description/) | [#292 Python](leetcode_py/problem292/) | [#292 Java](leetcode_java/problem292/) |
 | 344 | [反转字符串](https://leetcode-cn.com/problems/reverse-string/) | [#344 Python](leetcode_py/problem344/) | [#344 Java](leetcode_java/problem344/) |
 | 349 | [两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/) | [#349 Python](leetcode_py/problem349/) | [#349 Java](leetcode_java/problem349/) |
+| 383 | [赎金信](https://leetcode-cn.com/problems/ransom-note/) | [#383 Python](leetcode_py/problem383/) | [#383 Java](leetcode_java/problem383/) |
 | 389 | [找不同](https://leetcode-cn.com/problems/find-the-difference/description/) | [#389 Python](leetcode_py/problem389/) | [#389 Java](leetcode_java/problem389/) |
 | 412 | [Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/description/) | [#412 Python](leetcode_py/problem412/) | [#412 Java](leetcode_java/problem412/) |
 | 448 | [找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [#448 Python](leetcode_py/problem448/) | [#448 Java](leetcode_java/problem448/) |
@@ -112,6 +121,7 @@ Leetcode 算法题解。
 | 500 | [键盘行](https://leetcode-cn.com/problems/keyboard-row/) | [#500 Python](leetcode_py/problem500/) | [#500 Java](leetcode_java/problem500/) |
 | 520 | [检测大写字母](https://leetcode-cn.com/problems/detect-capital/description/) | [#520 Python](leetcode_py/problem520/) | [#520 Java](leetcode_java/problem520/) |
 | 521 | [最长特殊序列 Ⅰ](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i/description/) | [#521 Python](leetcode_py/problem521/) | [#521 Java](leetcode_java/problem521/) |
+| 530 | [二叉搜索树的最小绝对差](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/) | [#530 Python](leetcode_py/problem530/) | [#530 Java](leetcode_java/problem530/) |
 | 538 | [把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/) | [#538 Python](leetcode_py/problem538/) | [#538 Java](leetcode_java/problem538/) |
 | 557 | [反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | [#557 Python](leetcode_py/problem557/) | [#557 Java](leetcode_java/problem557/) |
 | 561 | [数组拆分 I](https://leetcode-cn.com/problems/array-partition-i/description/) | [#561 Python](leetcode_py/problem561/) | [#561 Java](leetcode_java/problem561/) |
@@ -131,9 +141,11 @@ Leetcode 算法题解。
 | 696 | [计数二进制子串](https://leetcode-cn.com/problems/count-binary-substrings/description/) | [#696 Python](leetcode_py/problem696/) | [#696 Java](leetcode_java/problem696/) |
 | 717 | [1比特与2比特字符](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters/) | [#717 Python](leetcode_py/problem717/) | [#717 Java](leetcode_java/problem717/) |
 | 728 | [自除数](https://leetcode-cn.com/problems/self-dividing-numbers/description/) | [#728 Python](leetcode_py/problem728/) | [#728 Java](leetcode_java/problem728/) |
+| 733 | [图像渲染](https://leetcode-cn.com/problems/flood-fill/) | [#733 Python](leetcode_py/problem733/) | [#733 Java](leetcode_java/problem733/) |
 | 762 | [二进制表示中质数个计算置位](https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation/description/) | [#762 Python](leetcode_py/problem762/) | [#762 Java](leetcode_java/problem762/) |
 | 766 | [托普利茨矩阵](https://leetcode-cn.com/problems/toeplitz-matrix/description/) | [#766 Python](leetcode_py/problem766/) | [#766 Java](leetcode_java/problem766/) |
 | 771 | [宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/description/) | [#771 Python](leetcode_py/problem771/) | [#771 Java](leetcode_java/problem771/) |
+| 783 | [二叉搜索树结点最小距离](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/) | [#783 Python](leetcode_py/problem783/) | [#783 Java](leetcode_java/problem783/) |
 | 784 | [字母大小写全排列](https://leetcode-cn.com/problems/letter-case-permutation/description/) | [#784 Python](leetcode_py/problem784/) | [#784 Java](leetcode_java/problem784/) |
 | 796 | [旋转字符串](https://leetcode-cn.com/problems/rotate-string/) | [#796 Python](leetcode_py/problem796/) | [#796 Java](leetcode_java/problem796/) |
 | 804 | [唯一摩尔斯密码词](https://leetcode-cn.com/problems/unique-morse-code-words/description/) | [#804 Python](leetcode_py/problem804/) | [#804 Java](leetcode_java/problem804/) |
