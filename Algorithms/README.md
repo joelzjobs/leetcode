@@ -35,9 +35,11 @@ Leetcode Algorithm Solutions.
 | 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers) | | [#371 Java](leetcode_java/problem371/) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [#383 Python](leetcode_py/problem383/) | [#383 Java](leetcode_java/problem383/) |
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/description/) | [#389 Python](leetcode_py/problem389/) | [#389 Java](leetcode_java/problem389/) |
+| 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [#404 Python](leetcode_py/problem404/) | [#404 Java](leetcode_java/problem404/) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) | [#412 Python](leetcode_py/problem412/) | [#412 Java](leetcode_java/problem412/) |
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [#448 Python](leetcode_py/problem448/) | [#448 Java](leetcode_java/problem448/) |
 | 453 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [#453 Python](leetcode_py/problem453/) | [#453 Java](leetcode_java/problem453/) |
+| 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [#455 Python](leetcode_py/problem455/) | [#455 Java](leetcode_java/problem455/) |
 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) | [#461 Python](leetcode_py/problem461/) | [#461 Java](leetcode_java/problem461/) |
 | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/description/) | [#463 Python](leetcode_py/problem463/) | [#463 Java](leectode_java/problem463/) |
 | 476 | [Number Complement](https://leetcode.com/problems/number-complement/description/) | [#476 Python](leetcode_py/problem476/) | [#476 Java](leetcode_java/problem476/) |
@@ -111,9 +113,11 @@ Leetcode 算法题解。
 | 349 | [两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/) | [#349 Python](leetcode_py/problem349/) | [#349 Java](leetcode_java/problem349/) |
 | 383 | [赎金信](https://leetcode-cn.com/problems/ransom-note/) | [#383 Python](leetcode_py/problem383/) | [#383 Java](leetcode_java/problem383/) |
 | 389 | [找不同](https://leetcode-cn.com/problems/find-the-difference/description/) | [#389 Python](leetcode_py/problem389/) | [#389 Java](leetcode_java/problem389/) |
+| 404 | [左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/) | [#404 Python](leetcode_py/problem404/) | [#404 Java](leetcode_java/problem404/) |
 | 412 | [Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/description/) | [#412 Python](leetcode_py/problem412/) | [#412 Java](leetcode_java/problem412/) |
 | 448 | [找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [#448 Python](leetcode_py/problem448/) | [#448 Java](leetcode_java/problem448/) |
 | 453 | [最小移动次数使数组元素相等](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/) | [#453 Python](leetcode_py/problem453/) | [#453 Java](leetcode_java/problem453/) |
+| 455 | [分发饼干](https://leetcode-cn.com/problems/assign-cookies/) | [#455 Python](leetcode_py/problem455/) | [#455 Java](leetcode_java/problem455/) |
 | 461 | [汉明距离](https://leetcode-cn.com/problems/hamming-distance/description/) | [#461 Python](leetcode_py/problem461/) | [#461 Java](leetcode_java/problem461/) |
 | 463 | [岛屿的周长](https://leetcode-cn.com/problems/island-perimeter/description/) | [#463 Python](leetcode_py/problem463/) | [#463 Java](leectode_java/problem463/) |
 | 476 | [数字的补数](https://leetcode-cn.com/problems/number-complement/description/) | [#476 Python](leetcode_py/problem476/) | [#476 Java](leetcode_java/problem476/) |
