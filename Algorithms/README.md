@@ -39,6 +39,7 @@ Leetcode Algorithm Solutions.
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/description/) | [#389 Python](leetcode_py/problem389/) | [#389 Java](leetcode_java/problem389/) |
 | 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [#404 Python](leetcode_py/problem404/) | [#404 Java](leetcode_java/problem404/) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) | [#412 Python](leetcode_py/problem412/) | [#412 Java](leetcode_java/problem412/) |
+| 447 | [Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/) | [#447 Python](leetcode_py/problem447/) | [#447 Java](leetcode_java/problem447/) | 
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [#448 Python](leetcode_py/problem448/) | [#448 Java](leetcode_java/problem448/) |
 | 453 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [#453 Python](leetcode_py/problem453/) | [#453 Java](leetcode_java/problem453/) |
 | 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [#455 Python](leetcode_py/problem455/) | [#455 Java](leetcode_java/problem455/) |
@@ -120,6 +121,7 @@ Leetcode 算法题解。
 | 389 | [找不同](https://leetcode-cn.com/problems/find-the-difference/description/) | [#389 Python](leetcode_py/problem389/) | [#389 Java](leetcode_java/problem389/) |
 | 404 | [左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/) | [#404 Python](leetcode_py/problem404/) | [#404 Java](leetcode_java/problem404/) |
 | 412 | [Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/description/) | [#412 Python](leetcode_py/problem412/) | [#412 Java](leetcode_java/problem412/) |
+| 447 | [回旋镖的数量](https://leetcode-cn.com/problems/number-of-boomerangs/) | [#447 Python](leetcode_py/problem447/) | [#447 Java](leetcode_java/problem447/) | 
 | 448 | [找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [#448 Python](leetcode_py/problem448/) | [#448 Java](leetcode_java/problem448/) |
 | 453 | [最小移动次数使数组元素相等](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/) | [#453 Python](leetcode_py/problem453/) | [#453 Java](leetcode_java/problem453/) |
 | 455 | [分发饼干](https://leetcode-cn.com/problems/assign-cookies/) | [#455 Python](leetcode_py/problem455/) | [#455 Java](leetcode_java/problem455/) |
