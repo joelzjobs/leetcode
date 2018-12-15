@@ -35,6 +35,7 @@ Leetcode Algorithm Solutions.
 | 359 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/description/) | [#359 Python](leetcode_py/problem359/) | [#359 Java](leetcode_java/problem359/) |
 | 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers) | | [#371 Java](leetcode_java/problem371/) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [#383 Python](leetcode_py/problem383/) | [#383 Java](leetcode_java/problem383/) |
+| 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [#387 Python](leetcode_py/problem387/) | [#387 Java](leetcode_java/problem387/) |
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/description/) | [#389 Python](leetcode_py/problem389/) | [#389 Java](leetcode_java/problem389/) |
 | 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [#404 Python](leetcode_py/problem404/) | [#404 Java](leetcode_java/problem404/) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) | [#412 Python](leetcode_py/problem412/) | [#412 Java](leetcode_java/problem412/) |
@@ -115,6 +116,7 @@ Leetcode 算法题解。
 | 344 | [反转字符串](https://leetcode-cn.com/problems/reverse-string/) | [#344 Python](leetcode_py/problem344/) | [#344 Java](leetcode_java/problem344/) |
 | 349 | [两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/) | [#349 Python](leetcode_py/problem349/) | [#349 Java](leetcode_java/problem349/) |
 | 383 | [赎金信](https://leetcode-cn.com/problems/ransom-note/) | [#383 Python](leetcode_py/problem383/) | [#383 Java](leetcode_java/problem383/) |
+| 387 | [字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) | [#387 Python](leetcode_py/problem387/) | [#387 Java](leetcode_java/problem387/) |
 | 389 | [找不同](https://leetcode-cn.com/problems/find-the-difference/description/) | [#389 Python](leetcode_py/problem389/) | [#389 Java](leetcode_java/problem389/) |
 | 404 | [左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/) | [#404 Python](leetcode_py/problem404/) | [#404 Java](leetcode_java/problem404/) |
 | 412 | [Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/description/) | [#412 Python](leetcode_py/problem412/) | [#412 Java](leetcode_java/problem412/) |
