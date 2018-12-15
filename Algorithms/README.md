@@ -13,6 +13,7 @@ Leetcode Algorithm Solutions.
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [#104 Python](leetcode_py/problem104/) | [#104 Java](leetcode_java/problem104/) |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [#122 Python](leetcode_py/problem122) | [#122 Java](leetcode_java/problem122) |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/description/) | [#136 Python](leetcode_py/problem136/) | [#136 Java](leetcode_java/problem136/) |
+| 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [#167 Python](leetcode_py/problem167/) | [#167 Java](leetcode_java/problem167) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [#169 Python](leetcode_py/problem169/) | [#169 Java](leetcode_java/problem169/) |
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [#171 Python](leetcode_py/problem171) | [#171 Java](leetcode_java/problem171/) |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [#206 Python](leetcode_py/problem206/) | [#206 Java](leetcode_java/problem206/) |
@@ -47,6 +48,7 @@ Leetcode Algorithm Solutions.
 | 492 | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/) | [#492 Python](leetcode_py/problem492) | [#492 Java](leetcode_java/problem492) |
 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/) | [#496 Python](leetcode_py/problem496/) | [#496 Java](leetcode_java/problem496/) |
 | 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/description/) | [#500 Python](leetcode_py/problem500/) | [#500 Java](leetcode_java/problem500/) |
+| 506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks/) | [#506 Python](leetcode_py/problem506/) | [#506 Java](leetcode_java/problem506/) |
 | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [#520 Python](leetcode_py/problem520/) | [#520 Java](leetcode_java/problem520/) |
 | 521 | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i) | [#521 Python](leetcode_py/problem521/) | [#521 Java](leetcode_java/problem521/) |
 | 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [#530 Python](leetcode_py/problem530/) | [#530 Java](leetcode_java/problem530/) |
@@ -99,6 +101,7 @@ Leetcode 算法题解。
 | 104 | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/description/) | [#104 Python](leetcode_py/problem104/) | [#104 Java](leetcode_java/problem104/) |
 | 122 | [买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | [#122 Python](leetcode_py/problem122) | [#122 Java](leetcode_java/problem122) |
 | 136 | [只出现一次的数字](https://leetcode-cn.com/problems/single-number/description/) | [#136 Python](leetcode_py/problem136/) | [#136 Java](leetcode_java/problem136/) |
+| 167 | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | [#167 Python](leetcode_py/problem167/) | [#167 Java](leetcode_java/problem167) |
 | 169 | [求众数](https://leetcode-cn.com/problems/majority-element/) | [#169 Python](leetcode_py/problem169/) | [#169 Java](leetcode_java/problem169/) |
 | 171 | [Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/) | [#171 Python](leetcode_py/problem171) | [#171 Java](leetcode_java/problem171/) |
 | 206 | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [#206 Python](leetcode_py/problem206/) | [#206 Java](leetcode_java/problem206/) |
@@ -125,6 +128,7 @@ Leetcode 算法题解。
 | 492 | [构造矩形](https://leetcode-cn.com/problems/construct-the-rectangle/) | [#492 Python](leetcode_py/problem492) | [#492 Java](leetcode_java/problem492) |
 | 496 | [下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/description/) | [#496 Python](leetcode_py/problem496/) | [#496 Java](leetcode_java/problem496/) |
 | 500 | [键盘行](https://leetcode-cn.com/problems/keyboard-row/) | [#500 Python](leetcode_py/problem500/) | [#500 Java](leetcode_java/problem500/) |
+| 506 | [相对名次](https://leetcode-cn.com/problems/relative-ranks/) | [#506 Python](leetcode_py/problem506/) | [#506 Java](leetcode_java/problem506/) |
 | 520 | [检测大写字母](https://leetcode-cn.com/problems/detect-capital/description/) | [#520 Python](leetcode_py/problem520/) | [#520 Java](leetcode_java/problem520/) |
 | 521 | [最长特殊序列 Ⅰ](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i/description/) | [#521 Python](leetcode_py/problem521/) | [#521 Java](leetcode_java/problem521/) |
 | 530 | [二叉搜索树的最小绝对差](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/) | [#530 Python](leetcode_py/problem530/) | [#530 Java](leetcode_java/problem530/) |
