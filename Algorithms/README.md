@@ -57,6 +57,7 @@ Leetcode Algorithm Solutions.
 | 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [#538 Python](leetcode_py/problem538/) | [#538 Java](leetcode_java/problem538/) |
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) | [#557 Python](leetcode_py/problem557/) | [#557 Java](leetcode_java/problem557/) |
 | 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/description/) | [#561 Python](leetcode_py/problem561/) | [#561 Java](leetcode_java/problem561/) |
+| 563 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | [#563 Python](leetcode_py/problem563/) | [#563 Java](leetcode_java/problem563/) |
 | 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/) | [#566 Python](leetcode_py/problem566/) | [#566 Java](leetcode_java/problem566/) |
 | 575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/description/) | [#575 Python](leetcode_py/problem575/) | [#575 Java](leetcode_java/problem575/) |
 | 598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii/) | [#598 Python](leetcode_py/problem598) | [#598 Java](leetcode_java/problem598) |
@@ -139,6 +140,7 @@ Leetcode 算法题解。
 | 538 | [把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/) | [#538 Python](leetcode_py/problem538/) | [#538 Java](leetcode_java/problem538/) |
 | 557 | [反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | [#557 Python](leetcode_py/problem557/) | [#557 Java](leetcode_java/problem557/) |
 | 561 | [数组拆分 I](https://leetcode-cn.com/problems/array-partition-i/description/) | [#561 Python](leetcode_py/problem561/) | [#561 Java](leetcode_java/problem561/) |
+| 563 | [二叉树的坡度](https://leetcode-cn.com/problems/binary-tree-tilt/) | [#563 Python](leetcode_py/problem563/) | [#563 Java](leetcode_java/problem563/) |
 | 566 | [重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix/description/) | [#566 Python](leetcode_py/problem566/) | [#566 Java](leetcode_java/problem566/) |
 | 575 | [分糖果](https://leetcode-cn.com/problems/distribute-candies/description/) | [#575 Python](leetcode_py/problem575/) | [#575 Java](leetcode_java/problem575/) |
 | 598 | [范围求和 II](https://leetcode-cn.com/problems/range-addition-ii/) | [#598 Python](leetcode_py/problem598) | [#598 Java](leetcode_java/problem598) |
