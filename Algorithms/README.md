@@ -72,6 +72,7 @@ Leetcode Algorithm Solutions.
 | 693 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) | [#693 Python](leetcode_py/problem693/) | [#693 Java](leetcode_java/problem693/) |
 | 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) | [#695 Python](leetcode_py/problem695/) | [#695 Java](leetcode_java/problem695/) |
 | 696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings) | [#696 Python](leetcode_py/problem696/) | [#696 Java](leetcode_java/problem696/) |
+| 697 | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array/) | [#697 Python](leetcode_py/problem697/) | [#697 Java](leetcode_java/problem697/) |
 | 717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/) | [#717 Python](leetcode_py/problem717/) | [#717 Java](leetcode_java/problem717/) |
 | 728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/) | [#728 Python](leetcode_py/problem728/) | [#728 Java](leetcode_java/problem728/) |
 | 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | [#733 Python](leetcode_py/problem733/) | [#733 Java](leetcode_java/problem733/) |
@@ -155,6 +156,7 @@ Leetcode 算法题解。
 | 693 | [交替位二进制数](https://leetcode-cn.com/problems/binary-number-with-alternating-bits/description/) | [#693 Python](leetcode_py/problem693/) | [#693 Java](leetcode_java/problem693/) |
 | 695 | [岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/description/) | [#695 Python](leetcode_py/problem695/) | [#695 Java](leetcode_java/problem695/) |
 | 696 | [计数二进制子串](https://leetcode-cn.com/problems/count-binary-substrings/description/) | [#696 Python](leetcode_py/problem696/) | [#696 Java](leetcode_java/problem696/) |
+| 697 | [数组的度](https://leetcode-cn.com/problems/degree-of-an-array/) | [#697 Python](leetcode_py/problem697/) | [#697 Java](leetcode_java/problem697/) |
 | 717 | [1比特与2比特字符](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters/) | [#717 Python](leetcode_py/problem717/) | [#717 Java](leetcode_java/problem717/) |
 | 728 | [自除数](https://leetcode-cn.com/problems/self-dividing-numbers/description/) | [#728 Python](leetcode_py/problem728/) | [#728 Java](leetcode_java/problem728/) |
 | 733 | [图像渲染](https://leetcode-cn.com/problems/flood-fill/) | [#733 Python](leetcode_py/problem733/) | [#733 Java](leetcode_java/problem733/) |
