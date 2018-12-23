@@ -89,7 +89,9 @@ Leetcode Algorithm Solutions.
 | 819 | [Most Common Word](https://leetcode.com/problems/most-common-word/) | [#819 Python](leetcode_py/problem819/) | [#819 Java](leetcode_java/problem819/) |
 | 821 | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/description/) | [#821 Python](leetcode_py/problem821/) | [#821 Java](leetcode_java/problem821/) |
 | 824 | [Goat Latin](https://leetcode.com/problems/goat-latin/) | [#824 Python](leetcode_py/problem824/) | [#824 Java](leetcode_java/problem824/) |
+| 830 | [Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/) | [#830 Python](leetcode_py/problem830/) | [#830 Java](leetcode_java/problem830) |
 | 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/solution/) | [#832 Python](leetcode_py/problem832/) | [#832 Java](leetcode_java/problem832/) |
+| 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [#844 Python](leetcode_py/problem844/) | [#844 Java](leetcode_java/problem844/) |
 | 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | [#852 Python](leetcode_py/problem852/) | [#852 Java](leetcode_java/problem852/) |
 
 ### 简介
@@ -172,5 +174,7 @@ Leetcode 算法题解。
 | 819 | [最常见的单词](https://leetcode-cn.com/problems/most-common-word/) | [#819 Python](leetcode_py/problem819/) | [#819 Java](leetcode_java/problem819/) |
 | 821 | [字符的最短距离](https://leetcode-cn.com/problems/shortest-distance-to-a-character/) | [#821 Python](leetcode_py/problem821/) | [#821 Java](leetcode_java/problem821/) |
 | 824 | [山羊拉丁文](https://leetcode-cn.com/problems/goat-latin/description/) | [#824 Python](leetcode_py/problem824/) | [#824 Java](leetcode_java/problem824/) |
+| 830 | [较大分组的位置](https://leetcode-cn.com/problems/positions-of-large-groups/) | [#830 Python](leetcode_py/problem830/) | [#830 Java](leetcode_java/problem830) |
 | 832 | [翻转图像](https://leetcode-cn.com/problems/flipping-an-image/description/) | [#832 Python](leetcode_py/problem832/) | [#832 Java](leetcode_java/problem832/) |
+| 844 | [比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/) | [#844 Python](leetcode_py/problem844/) | [#844 Java](leetcode_java/problem844/) |
 | 852 | [山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/description/) | [#852 Python](leetcode_py/problem852/) | [#852 Java](leetcode_java/problem852/) |
