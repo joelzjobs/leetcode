@@ -66,6 +66,7 @@ Leetcode Algorithm Solutions.
 | 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [#637 Python](leetcode_py/problem637/) | [#637 Java](leetcode_java/problem637/) |
 | 653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [#653 Python](leetcode_py/problem653/) | [#653 Java](leetcode_java/problem653/) |
 | 657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [#657 Python](leetcode_py/problem657/) | [#657 Java](leetcode_java/problem657/) |
+| 661 | [Image Smoother](https://leetcode.com/problems/image-smoother/) | [#661 Python](leetcode_py/problem661/) | [#661 Java](leetcode_java/problem661/) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/) | [#669 Python](leetcode_py/problem669/) | [#669 Java](leetcode_java/problem669/) |
 | 682 | [Baseball Game](https://leetcode.com/problems/baseball-game/description/) | [#682 Python](leetcode_py/problem682/) | [#682 Java](leetcode_java/problem682/) |
 | 690 | [Employee Importance](https://leetcode.com/problems/employee-importance/) | [#690 Python](leetcode_py/problem690/) | [#690 Java](leetcode_java/problem690/) |
@@ -152,6 +153,7 @@ Leetcode 算法题解。
 | 637 | [二叉树的层平均值](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/description/) | [#637 Python](leetcode_py/problem637/) | [#637 Java](leetcode_java/problem637/) |
 | 653 | [两数之和 IV - 输入 BST](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/) | [#653 Python](leetcode_py/problem653/) | [#653 Java](leetcode_java/problem653/) |
 | 657 | [机器人能否返回原点](https://leetcode-cn.com/problems/robot-return-to-origin/description/) | [#657 Python](leetcode_py/problem657/) | [#657 Java](leetcode_java/problem657/) |
+| 661 | [图片平滑器](https://leetcode-cn.com/problems/image-smoother/) | [#661 Python](leetcode_py/problem661/) | [#661 Java](leetcode_java/problem661/) |
 | 669 | [修剪二叉搜索树](https://leetcode-cn.com/problems/trim-a-binary-search-tree/) | [#669 Python](leetcode_py/problem669/) | [#669 Java](leetcode_java/problem669/) |
 | 682 | [棒球比赛](https://leetcode-cn.com/problems/baseball-game/description/) | [#682 Python](leetcode_py/problem682/) | [#682 Java](leetcode_java/problem682/) |
 | 690 | [员工的重要性](https://leetcode-cn.com/problems/employee-importance/description/) | [#690 Python](leetcode_py/problem690/) | [#690 Java](leetcode_java/problem690/) |
