@@ -61,6 +61,7 @@ Leetcode Algorithm Solutions.
 | 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/) | [#566 Python](leetcode_py/problem566/) | [#566 Java](leetcode_java/problem566/) |
 | 575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/description/) | [#575 Python](leetcode_py/problem575/) | [#575 Java](leetcode_java/problem575/) |
 | 598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii/) | [#598 Python](leetcode_py/problem598) | [#598 Java](leetcode_java/problem598) |
+| 599 | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | [#599 Python](leetcode_py/problem599/) | [#599 Java](leetcode_java/problem599/) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [#606 Python](leetcode_py/problem606/) | [#606 Java](leetcode_java/problem606/) |
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/) | [#617 Python](leetcode_py/problem617/) | [#617 Java](leetcode_java/problem617/) |
 | 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [#637 Python](leetcode_py/problem637/) | [#637 Java](leetcode_java/problem637/) |
@@ -148,6 +149,7 @@ Leetcode 算法题解。
 | 566 | [重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix/description/) | [#566 Python](leetcode_py/problem566/) | [#566 Java](leetcode_java/problem566/) |
 | 575 | [分糖果](https://leetcode-cn.com/problems/distribute-candies/description/) | [#575 Python](leetcode_py/problem575/) | [#575 Java](leetcode_java/problem575/) |
 | 598 | [范围求和 II](https://leetcode-cn.com/problems/range-addition-ii/) | [#598 Python](leetcode_py/problem598) | [#598 Java](leetcode_java/problem598) |
+| 599 | [两个列表的最小索引总和](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists/) | [#599 Python](leetcode_py/problem599/) | [#599 Java](leetcode_java/problem599/) |
 | 606 | [根据二叉树创建字符串](https://leetcode-cn.com/problems/construct-string-from-binary-tree/) | [#606 Python](leetcode_py/problem606/) | [#606 Java](leetcode_java/problem606/) |
 | 617 | [合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/description/) | [#617 Python](leetcode_py/problem617/) | [#617 Java](leetcode_java/problem617/) |
 | 637 | [二叉树的层平均值](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/description/) | [#637 Python](leetcode_py/problem637/) | [#637 Java](leetcode_java/problem637/) |
