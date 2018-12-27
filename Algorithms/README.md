@@ -23,6 +23,7 @@ Leetcode Algorithm Solutions.
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [#242 Python](leetcode_py/problem242/) | [#242 Java](leetcode_java/problem242) |
 | 243 | [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/description/) | [#243 Python](leetcode_py/problem243/) | [#243 Java](leetcode_java/problem243/) |
 | 252 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) | [#252 Python](leetcode_py/problem252/) | [#252 Java](leetcode_java/problem252) |
+| 256 | [Paint House](https://leetcode.com/problems/paint-house/) | [#256 Python](leetcode_py/problem256/) | [#256 Java](leetcode_java/problem256/) |
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits) | [#258 Python](leetcode_py/problem258/) | [#258 Java](leetcode_java/problem258/) |
 | 266 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/description/) | [#266 Python](leetcode_py/problem266/) | [#266 Java](leetcode_java/problem266/) |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [#283 Python](leetcode_py/problem283/) | [#283 Java](leetcode_java/problem283/) |
