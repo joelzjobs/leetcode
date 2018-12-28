@@ -26,6 +26,7 @@ Leetcode Algorithm Solutions.
 | 256 | [Paint House](https://leetcode.com/problems/paint-house/) | [#256 Python](leetcode_py/problem256/) | [#256 Java](leetcode_java/problem256/) |
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits) | [#258 Python](leetcode_py/problem258/) | [#258 Java](leetcode_java/problem258/) |
 | 266 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/description/) | [#266 Python](leetcode_py/problem266/) | [#266 Java](leetcode_java/problem266/) |
+| 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [#268 Python](leetcode_py/problem268/) | [#268 Java](leetcode_java/problem268/) | 
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [#283 Python](leetcode_py/problem283/) | [#283 Java](leetcode_java/problem283/) |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [#292 Python](leetcode_py/problem292/) | [#292 Java](leetcode_java/problem292/) |
 | 293 | [Flip Game](https://leetcode.com/problems/flip-game/description/) | [#293 Python](leetcode_py/problem293/) | [#293 Java](leetcode_java/problem293/) |
@@ -39,6 +40,7 @@ Leetcode Algorithm Solutions.
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [#387 Python](leetcode_py/problem387/) | [#387 Java](leetcode_java/problem387/) |
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/description/) | [#389 Python](leetcode_py/problem389/) | [#389 Java](leetcode_java/problem389/) |
 | 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [#404 Python](leetcode_py/problem404/) | [#404 Java](leetcode_java/problem404/) |
+| 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [#409 Python](leetcode_py/problem409/) | [#409 Java](leetcode_java/problem409/) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) | [#412 Python](leetcode_py/problem412/) | [#412 Java](leetcode_java/problem412/) |
 | 447 | [Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/) | [#447 Python](leetcode_py/problem447/) | [#447 Java](leetcode_java/problem447/) | 
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [#448 Python](leetcode_py/problem448/) | [#448 Java](leetcode_java/problem448/) |
@@ -119,6 +121,7 @@ Leetcode 算法题解。
 | 237 | [删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) | [#237 Python](leetcode_py/problem237/) | [#237 Java](leetcode_java/problem237/) |
 | 242 | [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/) | [#242 Python](leetcode_py/problem242/) | [#242 Java](leetcode_java/problem242) |
 | 258 | [各位相加](https://leetcode-cn.com/problems/add-digits/description/) | [#258 Python](leetcode_py/problem258/) | [#258 Java](leetcode_java/problem258/) |
+| 268 | [缺失数字](https://leetcode-cn.com/problems/missing-number/) | [#268 Python](leetcode_py/problem268/) | [#268 Java](leetcode_java/problem268/) | 
 | 283 | [移动零](https://leetcode-cn.com/problems/move-zeroes/description/) | [#283 Python](leetcode_py/problem283/) | [#283 Java](leetcode_java/problem283/) |
 | 292 | [Nim游戏](https://leetcode-cn.com/problems/nim-game/description/) | [#292 Python](leetcode_py/problem292/) | [#292 Java](leetcode_java/problem292/) |
 | 344 | [反转字符串](https://leetcode-cn.com/problems/reverse-string/) | [#344 Python](leetcode_py/problem344/) | [#344 Java](leetcode_java/problem344/) |
@@ -127,6 +130,7 @@ Leetcode 算法题解。
 | 387 | [字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) | [#387 Python](leetcode_py/problem387/) | [#387 Java](leetcode_java/problem387/) |
 | 389 | [找不同](https://leetcode-cn.com/problems/find-the-difference/description/) | [#389 Python](leetcode_py/problem389/) | [#389 Java](leetcode_java/problem389/) |
 | 404 | [左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/) | [#404 Python](leetcode_py/problem404/) | [#404 Java](leetcode_java/problem404/) |
+| 409 | [最长回文串](https://leetcode-cn.com/problems/longest-palindrome/) | [#409 Python](leetcode_py/problem409/) | [#409 Java](leetcode_java/problem409/) |
 | 412 | [Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/description/) | [#412 Python](leetcode_py/problem412/) | [#412 Java](leetcode_java/problem412/) |
 | 447 | [回旋镖的数量](https://leetcode-cn.com/problems/number-of-boomerangs/) | [#447 Python](leetcode_py/problem447/) | [#447 Java](leetcode_java/problem447/) | 
 | 448 | [找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [#448 Python](leetcode_py/problem448/) | [#448 Java](leetcode_java/problem448/) |

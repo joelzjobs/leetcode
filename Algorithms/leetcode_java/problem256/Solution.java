@@ -1,3 +1,5 @@
+package leetcode_java.problem256;
+
 class Solution {
     public int minCost(int[][] costs) {
         if(costs.length == 0){ return 0; }
