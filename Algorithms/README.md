@@ -35,6 +35,7 @@ Leetcode Algorithm Solutions.
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/description/) | [#344 Python](leetcode_py/problem344/) | [#344 Java](leetcode_java/problem344/) |
 | 346 | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/description/) | [#346 Python](leetcode_py/problem346/) | [#346 Java](leetcode_java/problem346/) |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) | [#349 Python](leetcode_py/problem349/) | [#349 Java](leetcode_java/problem349/) |
+| 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [#350 Python](leetcode_py/problem350/) | [#350 Java](leetcode_java/problem350/) |
 | 359 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/description/) | [#359 Python](leetcode_py/problem359/) | [#359 Java](leetcode_java/problem359/) |
 | 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers) | | [#371 Java](leetcode_java/problem371/) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [#383 Python](leetcode_py/problem383/) | [#383 Java](leetcode_java/problem383/) |
@@ -131,6 +132,7 @@ Leetcode 算法题解。
 | 292 | [Nim游戏](https://leetcode-cn.com/problems/nim-game/description/) | [#292 Python](leetcode_py/problem292/) | [#292 Java](leetcode_java/problem292/) |
 | 344 | [反转字符串](https://leetcode-cn.com/problems/reverse-string/) | [#344 Python](leetcode_py/problem344/) | [#344 Java](leetcode_java/problem344/) |
 | 349 | [两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/) | [#349 Python](leetcode_py/problem349/) | [#349 Java](leetcode_java/problem349/) |
+| 350 | [两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | [#350 Python](leetcode_py/problem350/) | [#350 Java](leetcode_java/problem350/) |
 | 383 | [赎金信](https://leetcode-cn.com/problems/ransom-note/) | [#383 Python](leetcode_py/problem383/) | [#383 Java](leetcode_java/problem383/) |
 | 387 | [字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) | [#387 Python](leetcode_py/problem387/) | [#387 Java](leetcode_java/problem387/) |
 | 389 | [找不同](https://leetcode-cn.com/problems/find-the-difference/description/) | [#389 Python](leetcode_py/problem389/) | [#389 Java](leetcode_java/problem389/) |
