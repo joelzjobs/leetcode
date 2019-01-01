@@ -86,6 +86,7 @@ Leetcode Algorithm Solutions.
 | 717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/) | [#717 Python](leetcode_py/problem717/) | [#717 Java](leetcode_java/problem717/) |
 | 728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/) | [#728 Python](leetcode_py/problem728/) | [#728 Java](leetcode_java/problem728/) |
 | 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | [#733 Python](leetcode_py/problem733/) | [#733 Java](leetcode_java/problem733/) |
+| 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [#746 Python](leetcode_py/problem746/) | [#746 Java](leetcode_java/problem746/) |
 | 760 | [Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/description/) | [#760 Python](leetcode_py/problem760/) |  [#760 Java](leetcode_java/problem760/) |
 | 762 | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [#762 Python](leetcode_py/problem762/) | [#762 Java](leetcode_java/problem762/) |
 | 766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/) | [#766 Python](leetcode_py/problem766/) | [#766 Java](leetcode_java/problem766/) |
@@ -181,6 +182,7 @@ Leetcode 算法题解。
 | 717 | [1比特与2比特字符](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters/) | [#717 Python](leetcode_py/problem717/) | [#717 Java](leetcode_java/problem717/) |
 | 728 | [自除数](https://leetcode-cn.com/problems/self-dividing-numbers/description/) | [#728 Python](leetcode_py/problem728/) | [#728 Java](leetcode_java/problem728/) |
 | 733 | [图像渲染](https://leetcode-cn.com/problems/flood-fill/) | [#733 Python](leetcode_py/problem733/) | [#733 Java](leetcode_java/problem733/) |
+| 746 | [使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) | [#746 Python](leetcode_py/problem746/) | [#746 Java](leetcode_java/problem746/) |
 | 762 | [二进制表示中质数个计算置位](https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation/description/) | [#762 Python](leetcode_py/problem762/) | [#762 Java](leetcode_java/problem762/) |
 | 766 | [托普利茨矩阵](https://leetcode-cn.com/problems/toeplitz-matrix/description/) | [#766 Python](leetcode_py/problem766/) | [#766 Java](leetcode_java/problem766/) |
 | 771 | [宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/description/) | [#771 Python](leetcode_py/problem771/) | [#771 Java](leetcode_java/problem771/) |
