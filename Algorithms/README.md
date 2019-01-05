@@ -12,6 +12,7 @@ Leetcode Algorithm Solutions.
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [#100 Python](leetcode_py/problem100/) | [#100 Java](leetcode_java/problem100/) |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [#104 Python](leetcode_py/problem104/) | [#104 Java](leetcode_java/problem104/) |
 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [#108 Python](leetcode_py/problem108/) | [#108 Java](leetcode_java/problem108/) |
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [#121 Python](leetcode_py/problem121/) | [#121 Java](leetcode_java/problem121/) |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [#122 Python](leetcode_py/problem122) | [#122 Java](leetcode_java/problem122) |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/description/) | [#136 Python](leetcode_py/problem136/) | [#136 Java](leetcode_java/problem136/) |
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [#167 Python](leetcode_py/problem167/) | [#167 Java](leetcode_java/problem167) |
@@ -118,6 +119,7 @@ Leetcode 算法题解。
 | 100 | [相同的树](https://leetcode-cn.com/problems/same-tree/) | [#100 Python](leetcode_py/problem100/) | [#100 Java](leetcode_java/problem100/) |
 | 104 | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/description/) | [#104 Python](leetcode_py/problem104/) | [#104 Java](leetcode_java/problem104/) |
 | 108 | [将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/) | [#108 Python](leetcode_py/problem108/) | [#108 Java](leetcode_java/problem108/) |
+| 121 | [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [#121 Python](leetcode_py/problem121/) | [#121 Java](leetcode_java/problem121/) |
 | 122 | [买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | [#122 Python](leetcode_py/problem122) | [#122 Java](leetcode_java/problem122) |
 | 136 | [只出现一次的数字](https://leetcode-cn.com/problems/single-number/description/) | [#136 Python](leetcode_py/problem136/) | [#136 Java](leetcode_java/problem136/) |
 | 167 | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | [#167 Python](leetcode_py/problem167/) | [#167 Java](leetcode_java/problem167) |
