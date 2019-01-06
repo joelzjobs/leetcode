@@ -57,6 +57,7 @@ Leetcode Algorithm Solutions.
 | 492 | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/) | [#492 Python](leetcode_py/problem492) | [#492 Java](leetcode_java/problem492) |
 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/) | [#496 Python](leetcode_py/problem496/) | [#496 Java](leetcode_java/problem496/) |
 | 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/description/) | [#500 Python](leetcode_py/problem500/) | [#500 Java](leetcode_java/problem500/) |
+| 504 | [Base 7](https://leetcode.com/problems/base-7/) | [#504 Python](leetcode_py/problem504/) | [#504 Java](leetcode_java/problem504/) |
 | 506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks/) | [#506 Python](leetcode_py/problem506/) | [#506 Java](leetcode_java/problem506/) |
 | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [#520 Python](leetcode_py/problem520/) | [#520 Java](leetcode_java/problem520/) |
 | 521 | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i) | [#521 Python](leetcode_py/problem521/) | [#521 Java](leetcode_java/problem521/) |
@@ -157,6 +158,7 @@ Leetcode 算法题解。
 | 492 | [构造矩形](https://leetcode-cn.com/problems/construct-the-rectangle/) | [#492 Python](leetcode_py/problem492) | [#492 Java](leetcode_java/problem492) |
 | 496 | [下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/description/) | [#496 Python](leetcode_py/problem496/) | [#496 Java](leetcode_java/problem496/) |
 | 500 | [键盘行](https://leetcode-cn.com/problems/keyboard-row/) | [#500 Python](leetcode_py/problem500/) | [#500 Java](leetcode_java/problem500/) |
+| 504 | [七进制数](https://leetcode-cn.com/problems/base-7/) | [#504 Python](leetcode_py/problem504/) | [#504 Java](leetcode_java/problem504/) |
 | 506 | [相对名次](https://leetcode-cn.com/problems/relative-ranks/) | [#506 Python](leetcode_py/problem506/) | [#506 Java](leetcode_java/problem506/) |
 | 520 | [检测大写字母](https://leetcode-cn.com/problems/detect-capital/description/) | [#520 Python](leetcode_py/problem520/) | [#520 Java](leetcode_java/problem520/) |
 | 521 | [最长特殊序列 Ⅰ](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i/description/) | [#521 Python](leetcode_py/problem521/) | [#521 Java](leetcode_java/problem521/) |
