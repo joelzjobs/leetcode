@@ -19,6 +19,7 @@ Leetcode Algorithm Solutions.
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [#167 Python](leetcode_py/problem167/) | [#167 Java](leetcode_java/problem167) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [#169 Python](leetcode_py/problem169/) | [#169 Java](leetcode_java/problem169/) |
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [#171 Python](leetcode_py/problem171) | [#171 Java](leetcode_java/problem171/) |
+| 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [#202 Python](leetcode_py/problem202/) | [#202 Java](leetcode_java/problem202/) |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [#206 Python](leetcode_py/problem206/) | [#206 Java](leetcode_java/problem206/) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/solution/) | [#217 Python](leetcode_py/problem217/) | [#217 Java](leetcode_java/problem217/) |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [#226 Python](leetcode_py/problem226/) | [#226 Java](leetcode_java/problem226/) |
@@ -81,6 +82,7 @@ Leetcode Algorithm Solutions.
 | 657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [#657 Python](leetcode_py/problem657/) | [#657 Java](leetcode_java/problem657/) |
 | 661 | [Image Smoother](https://leetcode.com/problems/image-smoother/) | [#661 Python](leetcode_py/problem661/) | [#661 Java](leetcode_java/problem661/) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/) | [#669 Python](leetcode_py/problem669/) | [#669 Java](leetcode_java/problem669/) |
+| 674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | [#674 Python](leetcode_py/problem674/) | [#674 Java](leetcode_java/problem674/) |
 | 682 | [Baseball Game](https://leetcode.com/problems/baseball-game/description/) | [#682 Python](leetcode_py/problem682/) | [#682 Java](leetcode_java/problem682/) |
 | 690 | [Employee Importance](https://leetcode.com/problems/employee-importance/) | [#690 Python](leetcode_py/problem690/) | [#690 Java](leetcode_java/problem690/) |
 | 693 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) | [#693 Python](leetcode_py/problem693/) | [#693 Java](leetcode_java/problem693/) |
@@ -129,6 +131,7 @@ Leetcode 算法题解。
 | 167 | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | [#167 Python](leetcode_py/problem167/) | [#167 Java](leetcode_java/problem167) |
 | 169 | [求众数](https://leetcode-cn.com/problems/majority-element/) | [#169 Python](leetcode_py/problem169/) | [#169 Java](leetcode_java/problem169/) |
 | 171 | [Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/) | [#171 Python](leetcode_py/problem171) | [#171 Java](leetcode_java/problem171/) |
+| 202 | [快乐数](https://leetcode-cn.com/problems/happy-number/) | [#202 Python](leetcode_py/problem202/) | [#202 Java](leetcode_java/problem202/) |
 | 206 | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [#206 Python](leetcode_py/problem206/) | [#206 Java](leetcode_java/problem206/) |
 | 217 | [存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/) | [#217 Python](leetcode_py/problem217/) | [#217 Java](leetcode_java/problem217/) |
 | 226 | [翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/description/) | [#226 Python](leetcode_py/problem226/) | [#226 Java](leetcode_java/problem226/) |
@@ -182,6 +185,7 @@ Leetcode 算法题解。
 | 657 | [机器人能否返回原点](https://leetcode-cn.com/problems/robot-return-to-origin/description/) | [#657 Python](leetcode_py/problem657/) | [#657 Java](leetcode_java/problem657/) |
 | 661 | [图片平滑器](https://leetcode-cn.com/problems/image-smoother/) | [#661 Python](leetcode_py/problem661/) | [#661 Java](leetcode_java/problem661/) |
 | 669 | [修剪二叉搜索树](https://leetcode-cn.com/problems/trim-a-binary-search-tree/) | [#669 Python](leetcode_py/problem669/) | [#669 Java](leetcode_java/problem669/) |
+| 674 | [最长连续递增序列](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/) | [#674 Python](leetcode_py/problem674/) | [#674 Java](leetcode_java/problem674/) |
 | 682 | [棒球比赛](https://leetcode-cn.com/problems/baseball-game/description/) | [#682 Python](leetcode_py/problem682/) | [#682 Java](leetcode_java/problem682/) |
 | 690 | [员工的重要性](https://leetcode-cn.com/problems/employee-importance/description/) | [#690 Python](leetcode_py/problem690/) | [#690 Java](leetcode_java/problem690/) |
 | 693 | [交替位二进制数](https://leetcode-cn.com/problems/binary-number-with-alternating-bits/description/) | [#693 Python](leetcode_py/problem693/) | [#693 Java](leetcode_java/problem693/) |
