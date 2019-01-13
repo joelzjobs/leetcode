@@ -28,6 +28,7 @@ Leetcode Algorithm Solutions.
 | 243 | [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/description/) | [#243 Python](leetcode_py/problem243/) | [#243 Java](leetcode_java/problem243/) |
 | 252 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) | [#252 Python](leetcode_py/problem252/) | [#252 Java](leetcode_java/problem252) |
 | 256 | [Paint House](https://leetcode.com/problems/paint-house/) | [#256 Python](leetcode_py/problem256/) | [#256 Java](leetcode_java/problem256/) |
+| 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [#257 Python](leetcode_py/problem257/) | [#257 Java](leetcode_java/problem257/) |
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits) | [#258 Python](leetcode_py/problem258/) | [#258 Java](leetcode_java/problem258/) |
 | 266 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/description/) | [#266 Python](leetcode_py/problem266/) | [#266 Java](leetcode_java/problem266/) |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [#268 Python](leetcode_py/problem268/) | [#268 Java](leetcode_java/problem268/) | 
@@ -82,6 +83,7 @@ Leetcode Algorithm Solutions.
 | 657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [#657 Python](leetcode_py/problem657/) | [#657 Java](leetcode_java/problem657/) |
 | 661 | [Image Smoother](https://leetcode.com/problems/image-smoother/) | [#661 Python](leetcode_py/problem661/) | [#661 Java](leetcode_java/problem661/) |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/) | [#669 Python](leetcode_py/problem669/) | [#669 Java](leetcode_java/problem669/) |
+| 671 | [Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/) | [#671 Python](leetcode_py/problem671/) | [#671 Java](leetcode_java/problem671/) |
 | 674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | [#674 Python](leetcode_py/problem674/) | [#674 Java](leetcode_java/problem674/) |
 | 682 | [Baseball Game](https://leetcode.com/problems/baseball-game/description/) | [#682 Python](leetcode_py/problem682/) | [#682 Java](leetcode_java/problem682/) |
 | 690 | [Employee Importance](https://leetcode.com/problems/employee-importance/) | [#690 Python](leetcode_py/problem690/) | [#690 Java](leetcode_java/problem690/) |
@@ -137,6 +139,7 @@ Leetcode 算法题解。
 | 226 | [翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/description/) | [#226 Python](leetcode_py/problem226/) | [#226 Java](leetcode_java/problem226/) |
 | 237 | [删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) | [#237 Python](leetcode_py/problem237/) | [#237 Java](leetcode_java/problem237/) |
 | 242 | [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/) | [#242 Python](leetcode_py/problem242/) | [#242 Java](leetcode_java/problem242) |
+| 257 | [二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/) | [#257 Python](leetcode_py/problem257/) | [#257 Java](leetcode_java/problem257/) |
 | 258 | [各位相加](https://leetcode-cn.com/problems/add-digits/description/) | [#258 Python](leetcode_py/problem258/) | [#258 Java](leetcode_java/problem258/) |
 | 268 | [缺失数字](https://leetcode-cn.com/problems/missing-number/) | [#268 Python](leetcode_py/problem268/) | [#268 Java](leetcode_java/problem268/) | 
 | 283 | [移动零](https://leetcode-cn.com/problems/move-zeroes/description/) | [#283 Python](leetcode_py/problem283/) | [#283 Java](leetcode_java/problem283/) |
@@ -185,6 +188,7 @@ Leetcode 算法题解。
 | 657 | [机器人能否返回原点](https://leetcode-cn.com/problems/robot-return-to-origin/description/) | [#657 Python](leetcode_py/problem657/) | [#657 Java](leetcode_java/problem657/) |
 | 661 | [图片平滑器](https://leetcode-cn.com/problems/image-smoother/) | [#661 Python](leetcode_py/problem661/) | [#661 Java](leetcode_java/problem661/) |
 | 669 | [修剪二叉搜索树](https://leetcode-cn.com/problems/trim-a-binary-search-tree/) | [#669 Python](leetcode_py/problem669/) | [#669 Java](leetcode_java/problem669/) |
+| 671 | [二叉树中第二小的节点](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree/) | [#671 Python](leetcode_py/problem671/) | [#671 Java](leetcode_java/problem671/) |
 | 674 | [最长连续递增序列](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/) | [#674 Python](leetcode_py/problem674/) | [#674 Java](leetcode_java/problem674/) |
 | 682 | [棒球比赛](https://leetcode-cn.com/problems/baseball-game/description/) | [#682 Python](leetcode_py/problem682/) | [#682 Java](leetcode_java/problem682/) |
 | 690 | [员工的重要性](https://leetcode-cn.com/problems/employee-importance/description/) | [#690 Python](leetcode_py/problem690/) | [#690 Java](leetcode_java/problem690/) |
