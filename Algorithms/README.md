@@ -10,6 +10,7 @@ Leetcode Algorithm Solutions.
 |:---:|:--------:|:----------------:|:--------------:|
 | 13  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [#13 Python](leetcode_py/problem13/) | [#13 Java](leetcode_java/problem13/) |
 | 21  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [#21 Python](leetcode_py/problem21/) | [#21 Java](leetcode_java/problem21/) |
+| 27  | [Remove Element](https://leetcode.com/problems/remove-element/) | [#27 Python](leetcode_py/problem27/) | [#27 Java](leetcode_java/problem27/) |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [#100 Python](leetcode_py/problem100/) | [#100 Java](leetcode_java/problem100/) |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [#104 Python](leetcode_py/problem104/) | [#104 Java](leetcode_java/problem104/) |
 | 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [#107 Python](leetcode_py/problem107/) | [#107 Java](leetcode_java/problem107/) |
@@ -126,6 +127,7 @@ Leetcode 算法题解。
 |:---:|:--------:|:----------------:|:--------------:|
 | 13  | [罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/) | [#13 Python](leetcode_py/problem13/) | [#13 Java](leetcode_java/problem13/) |
 | 21  | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [#21 Python](leetcode_py/problem21/) | [#21 Java](leetcode_java/problem21/) |
+| 27  | [移除元素](https://leetcode-cn.com/problems/remove-element/) | [#27 Python](leetcode_py/problem27/) | [#27 Java](leetcode_java/problem27/) |
 | 100 | [相同的树](https://leetcode-cn.com/problems/same-tree/) | [#100 Python](leetcode_py/problem100/) | [#100 Java](leetcode_java/problem100/) |
 | 104 | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/description/) | [#104 Python](leetcode_py/problem104/) | [#104 Java](leetcode_java/problem104/) |
 | 107 | [二叉树的层次遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/) | [#107 Python](leetcode_py/problem107/) | [#107 Java](leetcode_java/problem107/) |
