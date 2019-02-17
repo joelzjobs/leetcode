@@ -15,6 +15,7 @@ Leetcode Algorithm Solutions.
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [#104 Python](leetcode_py/problem104/) | [#104 Java](leetcode_java/problem104/) |
 | 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [#107 Python](leetcode_py/problem107/) | [#107 Java](leetcode_java/problem107/) |
 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [#108 Python](leetcode_py/problem108/) | [#108 Java](leetcode_java/problem108/) |
+| 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [#118 Python](leetcode_py/problem118/) | [#118 Java](leetcode_java/problem118/) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [#121 Python](leetcode_py/problem121/) | [#121 Java](leetcode_java/problem121/) |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [#122 Python](leetcode_py/problem122) | [#122 Java](leetcode_java/problem122) |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/description/) | [#136 Python](leetcode_py/problem136/) | [#136 Java](leetcode_java/problem136/) |
@@ -103,6 +104,7 @@ Leetcode Algorithm Solutions.
 | 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | [#733 Python](leetcode_py/problem733/) | [#733 Java](leetcode_java/problem733/) |
 | 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [#744 Python](leetcode_py/problem744/) | [#744 Java](leetcode_java/problem744/) |
 | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [#746 Python](leetcode_py/problem746/) | [#746 Java](leetcode_java/problem746/) |
+| 747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | [#747 Python](leetcode_py/problem747/) | [#747 Java](leetcode_java/problem747/) |
 | 760 | [Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/description/) | [#760 Python](leetcode_py/problem760/) |  [#760 Java](leetcode_java/problem760/) |
 | 762 | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [#762 Python](leetcode_py/problem762/) | [#762 Java](leetcode_java/problem762/) |
 | 766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/) | [#766 Python](leetcode_py/problem766/) | [#766 Java](leetcode_java/problem766/) |
@@ -136,6 +138,7 @@ Leetcode 算法题解。
 | 104 | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/description/) | [#104 Python](leetcode_py/problem104/) | [#104 Java](leetcode_java/problem104/) |
 | 107 | [二叉树的层次遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/) | [#107 Python](leetcode_py/problem107/) | [#107 Java](leetcode_java/problem107/) |
 | 108 | [将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/) | [#108 Python](leetcode_py/problem108/) | [#108 Java](leetcode_java/problem108/) |
+| 118 | [杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/) | [#118 Python](leetcode_py/problem118/) | [#118 Java](leetcode_java/problem118/) |
 | 121 | [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [#121 Python](leetcode_py/problem121/) | [#121 Java](leetcode_java/problem121/) |
 | 122 | [买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | [#122 Python](leetcode_py/problem122) | [#122 Java](leetcode_java/problem122) |
 | 136 | [只出现一次的数字](https://leetcode-cn.com/problems/single-number/description/) | [#136 Python](leetcode_py/problem136/) | [#136 Java](leetcode_java/problem136/) |
@@ -213,6 +216,7 @@ Leetcode 算法题解。
 | 733 | [图像渲染](https://leetcode-cn.com/problems/flood-fill/) | [#733 Python](leetcode_py/problem733/) | [#733 Java](leetcode_java/problem733/) |
 | 744 | [寻找比目标字母大的最小字母](https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target/) | [#744 Python](leetcode_py/problem744/) | [#744 Java](leetcode_java/problem744/) |
 | 746 | [使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) | [#746 Python](leetcode_py/problem746/) | [#746 Java](leetcode_java/problem746/) |
+| 747 | [至少是其他数字两倍的最大数](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/) | [#747 Python](leetcode_py/problem747/) | [#747 Java](leetcode_java/problem747/) |
 | 762 | [二进制表示中质数个计算置位](https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation/description/) | [#762 Python](leetcode_py/problem762/) | [#762 Java](leetcode_java/problem762/) |
 | 766 | [托普利茨矩阵](https://leetcode-cn.com/problems/toeplitz-matrix/description/) | [#766 Python](leetcode_py/problem766/) | [#766 Java](leetcode_java/problem766/) |
 | 771 | [宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/description/) | [#771 Python](leetcode_py/problem771/) | [#771 Java](leetcode_java/problem771/) |
