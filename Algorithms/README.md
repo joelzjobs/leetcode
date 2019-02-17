@@ -25,6 +25,8 @@ Leetcode Algorithm Solutions.
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [#206 Python](leetcode_py/problem206/) | [#206 Java](leetcode_java/problem206/) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/solution/) | [#217 Python](leetcode_py/problem217/) | [#217 Java](leetcode_java/problem217/) |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [#226 Python](leetcode_py/problem226/) | [#226 Java](leetcode_java/problem226/) |
+| 231 | [Power of Two](https://leetcode.com/problems/power-of-two/)
+| [#231 Python](leetcode_py/problem231/) | [#231 Java](leetcode_java/problem231/) |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [#237 Python](leetcode_py/problem237/) | [#237 Java](leetcode_java/problem237/) |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [#242 Python](leetcode_py/problem242/) | [#242 Java](leetcode_java/problem242) |
 | 243 | [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/description/) | [#243 Python](leetcode_py/problem243/) | [#243 Java](leetcode_java/problem243/) |
@@ -34,9 +36,11 @@ Leetcode Algorithm Solutions.
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits) | [#258 Python](leetcode_py/problem258/) | [#258 Java](leetcode_java/problem258/) |
 | 266 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/description/) | [#266 Python](leetcode_py/problem266/) | [#266 Java](leetcode_java/problem266/) |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [#268 Python](leetcode_py/problem268/) | [#268 Java](leetcode_java/problem268/) | 
+| 270 | [Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/) | [#270 Python](leetcode_py/problem270/) | [#270 Java](leetcode_java/problem270/) |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [#283 Python](leetcode_py/problem283/) | [#283 Java](leetcode_java/problem283/) |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [#292 Python](leetcode_py/problem292/) | [#292 Java](leetcode_java/problem292/) |
 | 293 | [Flip Game](https://leetcode.com/problems/flip-game/description/) | [#293 Python](leetcode_py/problem293/) | [#293 Java](leetcode_java/problem293/) |
+| 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [#326 Python](leetcode_py/problem326/) | [#326 Java](leetcode_java/problem326/) |
 | 339 | [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/description/) | [#339 Python](leetcode_py/problem339/) | [#339 Java](leetcode_java/problem339) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/description/) | [#344 Python](leetcode_py/problem344/) | [#344 Java](leetcode_java/problem344/) |
 | 346 | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/description/) | [#346 Python](leetcode_py/problem346/) | [#346 Java](leetcode_java/problem346/) |
@@ -142,6 +146,7 @@ Leetcode 算法题解。
 | 206 | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [#206 Python](leetcode_py/problem206/) | [#206 Java](leetcode_java/problem206/) |
 | 217 | [存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/) | [#217 Python](leetcode_py/problem217/) | [#217 Java](leetcode_java/problem217/) |
 | 226 | [翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/description/) | [#226 Python](leetcode_py/problem226/) | [#226 Java](leetcode_java/problem226/) |
+| 231 | [2的幂](https://leetcode-cn.com/problems/power-of-two/) | [#231 Python](leetcode_py/problem231/) | [#231 Java](leetcode_java/problem231/) |
 | 237 | [删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) | [#237 Python](leetcode_py/problem237/) | [#237 Java](leetcode_java/problem237/) |
 | 242 | [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/) | [#242 Python](leetcode_py/problem242/) | [#242 Java](leetcode_java/problem242) |
 | 257 | [二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/) | [#257 Python](leetcode_py/problem257/) | [#257 Java](leetcode_java/problem257/) |
@@ -149,6 +154,7 @@ Leetcode 算法题解。
 | 268 | [缺失数字](https://leetcode-cn.com/problems/missing-number/) | [#268 Python](leetcode_py/problem268/) | [#268 Java](leetcode_java/problem268/) | 
 | 283 | [移动零](https://leetcode-cn.com/problems/move-zeroes/description/) | [#283 Python](leetcode_py/problem283/) | [#283 Java](leetcode_java/problem283/) |
 | 292 | [Nim游戏](https://leetcode-cn.com/problems/nim-game/description/) | [#292 Python](leetcode_py/problem292/) | [#292 Java](leetcode_java/problem292/) |
+| 326 | [3的幂](https://leetcode-cn.com/problems/power-of-three/) | [#326 Python](leetcode_py/problem326/) | [#326 Java](leetcode_java/problem326/) |
 | 344 | [反转字符串](https://leetcode-cn.com/problems/reverse-string/) | [#344 Python](leetcode_py/problem344/) | [#344 Java](leetcode_java/problem344/) |
 | 349 | [两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/) | [#349 Python](leetcode_py/problem349/) | [#349 Java](leetcode_java/problem349/) |
 | 350 | [两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | [#350 Python](leetcode_py/problem350/) | [#350 Java](leetcode_java/problem350/) |
