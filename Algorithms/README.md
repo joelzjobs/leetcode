@@ -54,6 +54,7 @@ Leetcode Algorithm Solutions.
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [#387 Python](leetcode_py/problem387/) | [#387 Java](leetcode_java/problem387/) |
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/description/) | [#389 Python](leetcode_py/problem389/) | [#389 Java](leetcode_java/problem389/) |
 | 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [#404 Python](leetcode_py/problem404/) | [#404 Java](leetcode_java/problem404/) |
+| 405 | [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [#405 Python](leetcode_py/problem405/) | [#405 Java](leetcode_java/problem405/) |
 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [#409 Python](leetcode_py/problem409/) | [#409 Java](leetcode_java/problem409/) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) | [#412 Python](leetcode_py/problem412/) | [#412 Java](leetcode_java/problem412/) |
 | 447 | [Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/) | [#447 Python](leetcode_py/problem447/) | [#447 Java](leetcode_java/problem447/) | 
@@ -81,6 +82,7 @@ Leetcode Algorithm Solutions.
 | 563 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | [#563 Python](leetcode_py/problem563/) | [#563 Java](leetcode_java/problem563/) |
 | 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/) | [#566 Python](leetcode_py/problem566/) | [#566 Java](leetcode_java/problem566/) |
 | 575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/description/) | [#575 Python](leetcode_py/problem575/) | [#575 Java](leetcode_java/problem575/) |
+| 594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | [#594 Python](leetcode_py/problem594/) | [#594 Java](leectode_java/problem594/) |
 | 598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii/) | [#598 Python](leetcode_py/problem598) | [#598 Java](leetcode_java/problem598) |
 | 599 | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | [#599 Python](leetcode_py/problem599/) | [#599 Java](leetcode_java/problem599/) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [#606 Python](leetcode_py/problem606/) | [#606 Java](leetcode_java/problem606/) |
@@ -121,6 +123,7 @@ Leetcode Algorithm Solutions.
 | 824 | [Goat Latin](https://leetcode.com/problems/goat-latin/) | [#824 Python](leetcode_py/problem824/) | [#824 Java](leetcode_java/problem824/) |
 | 830 | [Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/) | [#830 Python](leetcode_py/problem830/) | [#830 Java](leetcode_java/problem830) |
 | 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/solution/) | [#832 Python](leetcode_py/problem832/) | [#832 Java](leetcode_java/problem832/) |
+| 836 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/) | [#836 Python](leetcode_py/problem836/) | [#836 Java](leetcode_java/problem836/) | 
 | 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [#844 Python](leetcode_py/problem844/) | [#844 Java](leetcode_java/problem844/) |
 | 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | [#852 Python](leetcode_py/problem852/) | [#852 Java](leetcode_java/problem852/) |
 
@@ -167,6 +170,7 @@ Leetcode 算法题解。
 | 387 | [字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) | [#387 Python](leetcode_py/problem387/) | [#387 Java](leetcode_java/problem387/) |
 | 389 | [找不同](https://leetcode-cn.com/problems/find-the-difference/description/) | [#389 Python](leetcode_py/problem389/) | [#389 Java](leetcode_java/problem389/) |
 | 404 | [左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/) | [#404 Python](leetcode_py/problem404/) | [#404 Java](leetcode_java/problem404/) |
+| 405 | [数字转换为十六进制数](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/) | [#405 Python](leetcode_py/problem405/) | [#405 Java](leetcode_java/problem405/) |
 | 409 | [最长回文串](https://leetcode-cn.com/problems/longest-palindrome/) | [#409 Python](leetcode_py/problem409/) | [#409 Java](leetcode_java/problem409/) |
 | 412 | [Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/description/) | [#412 Python](leetcode_py/problem412/) | [#412 Java](leetcode_java/problem412/) |
 | 447 | [回旋镖的数量](https://leetcode-cn.com/problems/number-of-boomerangs/) | [#447 Python](leetcode_py/problem447/) | [#447 Java](leetcode_java/problem447/) | 
@@ -194,6 +198,7 @@ Leetcode 算法题解。
 | 563 | [二叉树的坡度](https://leetcode-cn.com/problems/binary-tree-tilt/) | [#563 Python](leetcode_py/problem563/) | [#563 Java](leetcode_java/problem563/) |
 | 566 | [重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix/description/) | [#566 Python](leetcode_py/problem566/) | [#566 Java](leetcode_java/problem566/) |
 | 575 | [分糖果](https://leetcode-cn.com/problems/distribute-candies/description/) | [#575 Python](leetcode_py/problem575/) | [#575 Java](leetcode_java/problem575/) |
+| 594 | [最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence/) | [#594 Python](leetcode_py/problem594/) | [#594 Java](leectode_java/problem594/) |
 | 598 | [范围求和 II](https://leetcode-cn.com/problems/range-addition-ii/) | [#598 Python](leetcode_py/problem598) | [#598 Java](leetcode_java/problem598) |
 | 599 | [两个列表的最小索引总和](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists/) | [#599 Python](leetcode_py/problem599/) | [#599 Java](leetcode_java/problem599/) |
 | 606 | [根据二叉树创建字符串](https://leetcode-cn.com/problems/construct-string-from-binary-tree/) | [#606 Python](leetcode_py/problem606/) | [#606 Java](leetcode_java/problem606/) |
@@ -233,5 +238,6 @@ Leetcode 算法题解。
 | 824 | [山羊拉丁文](https://leetcode-cn.com/problems/goat-latin/description/) | [#824 Python](leetcode_py/problem824/) | [#824 Java](leetcode_java/problem824/) |
 | 830 | [较大分组的位置](https://leetcode-cn.com/problems/positions-of-large-groups/) | [#830 Python](leetcode_py/problem830/) | [#830 Java](leetcode_java/problem830) |
 | 832 | [翻转图像](https://leetcode-cn.com/problems/flipping-an-image/description/) | [#832 Python](leetcode_py/problem832/) | [#832 Java](leetcode_java/problem832/) |
+| 836 | [矩形重叠](https://leetcode-cn.com/problems/rectangle-overlap/) | [#836 Python](leetcode_py/problem836/) | [#836 Java](leetcode_java/problem836/) | 
 | 844 | [比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/) | [#844 Python](leetcode_py/problem844/) | [#844 Java](leetcode_java/problem844/) |
 | 852 | [山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/description/) | [#852 Python](leetcode_py/problem852/) | [#852 Java](leetcode_java/problem852/) |
